@@ -39,24 +39,6 @@
 </item>
 
 <item>
-<title>Dave</title>
-<link>http://live308.edge.filmon.com/live/370.low.stream/media_w1753462098_3347.ts?id=0ad5aac39bb13fbe90bbb4685e2fd966b693ecda6f759869fd3fe7ce8581a59f904778b825e19e93e427ecff3a026b7f3795ff5503ee363c9af1c6691bfe0d3ed413d64d9da0bb4d9ea6e7d447cdcb4057246f9baeacc0163a32c2577b1e9f1a2edfa057db739931ef0b47b4b56892dac3f3cb5e25b325bf31253f301abd2f9082d4481c4c16ba2cd9676f29757220ef2fc6136d94f7400b
-
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Yeserday</title>
-<link>http://live307.edge.filmon.com/live/1039.low.stream/media_w427263513_42118.ts?id=0ad5aac39bb13fbe5af5e87655e95c3f29bdb2e4a8663f83500c086042fc09f1c1750741545c1f78fe3920e0ad18ed647c35ba88fa0d353e50dde90ebc0ca3cda0729c31658ef1d466700cd62ba116f06636db976f444af701733abf258e355a75fcb7d8919c16146d06017c20ecc0e05a9c02b57f1a787b5d68fccfa5d80af791ecfedd2415ff4a15b6af062ad177a9ddf85500970cd0ba</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>Disney Cinemagic</title>
 <link>http://live305.edge.filmon.com/live/719.low.stream/chunklist_w913650004.m3u8?id=0ad5aac39bb13fbec8ae0b0cdb6809b2f58d1e63824939a928a611468973f52e44ede7947da7ff8c7a75716282fded8fab7500bc5170b1600d63cc77f752ec6e55d33cbbc9dabd1fb791dbe2e9abff40bb202bc1e74f7ec377f6ce71ee12d3059cc1b1e543d9e46085f3dcce81d9b9a218988083ed2961ec6fc1dbaef1a1f689238285b17f607afb02784516d46e544cf846d427565c48cd</link>
 <thumbnail></thumbnail>
@@ -73,8 +55,8 @@
 </item>
 
 <item>
-<title>Eurosport</title>
-<link>rtmp://178.18.31.54:443/liverepeater playpath=191695 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191695&width=620&height=490</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
