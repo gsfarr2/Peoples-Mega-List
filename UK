@@ -13,6 +13,29 @@
 
 
 
+<item>
+<title>BBC ONE</title>
+<link>http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BBC Two</title>
+<link>http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ITV</title>
+<link>http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>Box Nation</title>
