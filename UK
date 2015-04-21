@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>Channel Four</title>
+<link>http://live.cdn.tvplayer.com/mediaexcel01/channel04/5/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Box Nation</title>
 <link>http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8</link>
 <thumbnail></thumbnail>
@@ -47,7 +55,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/playlist.m3u8?version=2&utcstart=1429628731.5432329</link>
+<link>http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -64,14 +72,6 @@
 <item>
 <title>Disney Cinemagic</title>
 <link>http://live305.edge.filmon.com/live/719.low.stream/chunklist_w913650004.m3u8?id=0ad5aac39bb13fbec8ae0b0cdb6809b2f58d1e63824939a928a611468973f52e44ede7947da7ff8c7a75716282fded8fab7500bc5170b1600d63cc77f752ec6e55d33cbbc9dabd1fb791dbe2e9abff40bb202bc1e74f7ec377f6ce71ee12d3059cc1b1e543d9e46085f3dcce81d9b9a218988083ed2961ec6fc1dbaef1a1f689238285b17f607afb02784516d46e544cf846d427565c48cd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title></title>
-<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
