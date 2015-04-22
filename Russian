@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>Viasat Explore Rus/Eng Dual Audio/title>
+<title>Viasat Explore Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.15:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explore.png</thumbnail>
 <fanart></fanart>
@@ -233,7 +233,7 @@
 <item>
 <title>MGMHD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.15:1234</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mgm_br_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -241,7 +241,7 @@
 <item>
 <title>SETHD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.18:1234</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
