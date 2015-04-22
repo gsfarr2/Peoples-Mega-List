@@ -15,7 +15,7 @@
 
 
 <item>
-<title>Cartoon Network</title>
+<title>Cartoon Network Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.3.3:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail>
 <fanart></fanart>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>Nickelodeon</title>
+<title>Nickelodeon Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.3.4:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
 <fanart></fanart>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>TLC</title>
+<title>TLC Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.3.16:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_ie.png</thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>Fox Life</title>
+<title>Fox Life Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.3.11:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_global.png</thumbnail>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>E!</title>
+<title>E! Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.3.12:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>Discovery Channel</title>
+<title>Discovery Channel Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.1:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png</thumbnail>
 <fanart></fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>Discovery World</title>
+<title>Discovery World Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.2:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_world_au.png</thumbnail>
 <fanart></fanart>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>Discovery Science</title>
+<title>Discovery Science Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.9:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_ca.png</thumbnail>
 <fanart></fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>Animal Planet</title>
+<title>Animal Planet Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.3:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>National Geographic</title>
+<title>National Geographic Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.8:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
 <fanart></fanart>
@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>Nat Geo Wild</title>
+<title>Nat Geo Wild Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.16:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
 <fanart></fanart>
@@ -103,7 +103,7 @@
 </item>
 
 <item>
-<title>Viasat Nature</title>
+<title>Viasat Nature Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.5:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png</thumbnail>
 <fanart></fanart>
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<title>Viasat History</title>
+<title>Viasat History Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.14:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_history.png</thumbnail>
 <fanart></fanart>
@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>Viasat Explore/title>
+<title>Viasat Explore Rus/Eng Dual Audio/title>
 <link>http://37.193.0.15:81/udp/239.1.5.15:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explore.png</thumbnail>
 <fanart></fanart>
@@ -127,7 +127,7 @@
 </item>
 
 <item>
-<title>Travel Adventure</title>
+<title>Travel Adventure Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.7:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/travel_adventure_channel_ru.png</thumbnail>
 <fanart></fanart>
@@ -135,7 +135,7 @@
 </item>
 
 <item>
-<title>Fox</title>
+<title>Fox Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.5:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_global.png</thumbnail>
 <fanart></fanart>
@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>SONY</title>
+<title>SONY Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.6:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_channel_africa.png</thumbnail>
 <fanart></fanart>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-<title>Sony Sci-Fi</title>
+<title>Sony Sci-Fi Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.7:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_scifi_ru.png</thumbnail>
 <fanart></fanart>
@@ -159,7 +159,7 @@
 </item>
 
 <item>
-<title>TV1000</title>
+<title>TV1000 Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.12:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -167,7 +167,7 @@
 </item>
 
 <item>
-<title>TV1000 Action</title>
+<title>TV1000 Action Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.13:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -175,7 +175,7 @@
 </item>
 
 <item>
-<title>Universal Channel</title>
+<title>Universal Channel Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.4.9:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_us_hd.png</thumbnail>
 <fanart></fanart>
@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>Investigation Discovery</title>
+<title>Investigation Discovery Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png</thumbnail>
 <fanart></fanart>
@@ -199,7 +199,7 @@
 </item>
 
 <item>
-<title>VH1 Classic</title>
+<title>VH1 Classic Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.8.7:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vh1_classic_west.png</thumbnail>
 <fanart></fanart>
@@ -207,7 +207,7 @@
 </item>
 
 <item>
-<title>Eurosport HD</title>
+<title>Eurosport HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.11.6:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_hd.png</thumbnail>
 <fanart></fanart>
@@ -215,7 +215,7 @@
 </item>
 
 <item>
-<title>Fox HD</title>
+<title>Fox HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.9.11:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_hd_lam.png</thumbnail>
 <fanart></fanart>
@@ -223,7 +223,7 @@
 </item>
 
 <item>
-<title>Fox Life HD</title>
+<title>Fox Life HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.14:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_global.png</thumbnail>
 <fanart></fanart>
@@ -231,7 +231,7 @@
 </item>
 
 <item>
-<title>MGMHD</title>
+<title>MGMHD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.15:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -239,7 +239,7 @@
 </item>
 
 <item>
-<title>SETHD</title>
+<title>SETHD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.18:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -247,7 +247,7 @@
 </item>
 
 <item>
-<title>Discovery Showcase HD</title>
+<title>Discovery Showcase HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.17:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_showcase_us.png</thumbnail>
 <fanart></fanart>
@@ -255,7 +255,7 @@
 </item>
 
 <item>
-<title>Animal Planet HD</title>
+<title>Animal Planet HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.16:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.png</thumbnail>
 <fanart></fanart>
@@ -263,7 +263,7 @@
 </item>
 
 <item>
-<title>National Geographic HD</title>
+<title>National Geographic HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.1:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us_hd.png</thumbnail>
 <fanart></fanart>
@@ -271,7 +271,7 @@
 </item>
 
 <item>
-<title>Nat Geo Wild HD</title>
+<title>Nat Geo Wild HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.6:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.png</thumbnail>
 <fanart></fanart>
@@ -279,7 +279,7 @@
 </item>
 
 <item>
-<title>Travel Adventure HD</title>
+<title>Travel Adventure HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.4:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/travel_adventure_channel_ru.png</thumbnail>
 <fanart></fanart>
@@ -295,7 +295,7 @@
 </item>
 
 <item>
-<title>Outdoor Channel HD</title>
+<title>Outdoor Channel HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.9.10:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel_hd.png</thumbnail>
 <fanart></fanart>
@@ -303,7 +303,7 @@
 </item>
 
 <item>
-<title>HD Life</title>
+<title>HD Life Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.7:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -327,7 +327,7 @@
 </item>
 
 <item>
-<title>Fashion HD</title>
+<title>Fashion HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.10.20:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fashion_tv_fr.png</thumbnail>
 <fanart></fanart>
@@ -335,7 +335,7 @@
 </item>
 
 <item>
-<title>MTV Live HD</title>
+<title>MTV Live HD Rus/Eng Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.17.83:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_live_hd_us.png</thumbnail>
 <fanart></fanart>
