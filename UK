@@ -366,8 +366,8 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Sky Sports News</title>
+<link>rtmp://31.220.0.195:80/live playpath=snc swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=snc&vw=620&vh=490</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
