@@ -17,7 +17,7 @@
 <item>
 <title>A&E</title>
 <link>http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ae_east.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -25,7 +25,7 @@
 <item>
 <title>ABC7</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/wbbj_jackson.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -33,7 +33,7 @@
 <item>
 <title>ABC Family</title>
 <link>rtmpe://192.99.38.90:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abc_family.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -49,7 +49,7 @@
 <item>
 <title>AMC</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -57,15 +57,15 @@
 <item>
 <title>Bravo</title>
 <link>rtmpe://192.99.38.90:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bravo_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmpe://192.99.38.90:1935/goLive playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6</link>
-<thumbnail></thumbnail>
+<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -73,7 +73,7 @@
 <item>
 <title>Comedy Central</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -81,7 +81,7 @@
 <item>
 <title>CBS2 NY</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -95,105 +95,105 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CP24</title>
+<link>http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cp_24_ca.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>AXN HD</title>
+<link>http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_global.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Showtime</title>
+<link>http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/showtime_west.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>TNT</title>
+<link>http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/172.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>USA Network</title>
+<link>http://209.95.34.86/live2/105-USANet.stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/usa_network.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>NBC</title>
+<link>http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_us_central.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>HBO Comedy</title>
+<link>http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CNN</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CNBC</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>WNBC</title>
+<link>http://nbclim-f.akamaihd.net/Prod/NBCU_LM_VMS_-_WNBC/325/62/WNBC_000000006277669_m,ed_mob_low,ed_mob_std,ob_mid,ed_low,ed,ed_high,.mp4.csmil/bitrate=4?v=2.11.3&fp=WIN%2016,0,0,305&r=JEKDQ&g=CBHQWCYRMDWA</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/wncn17_raleigh.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>NASA HD</title>
+<link>http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nasa_tv_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Bloomberg</title>
+<link>http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bloomberg_tv_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Animal Planet</title>
+<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
