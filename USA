@@ -199,47 +199,47 @@
 </item>
 
 <item>
-<title>Discovery down</title>
-<link>http://88.150.252.137:1836/dell/224-discoveryusa/chunklist_w1880449674.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE1IDI6MzY6NTAgUE0maGFzaF92YWx1ZT1LZmdJbFhpNG1iMDlHSnRGMmZDZEx3PT0mdmFsaWRtaW51dGVzPTE=</link>
+<title>Discovery</title>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>History down</title>
-<link>http://88.150.252.137:1836/dell/224-historyusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE1IDI6NDU6MDEgUE0maGFzaF92YWx1ZT1IMkJCZFIzUm9VN1BVRG11bFY5RjdBPT0mdmFsaWRtaW51dGVzPTE=</link>
+<title>History</title>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>National Geographic down</title>
-<link>http://88.150.252.137:1836/dell/224-natgeousa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE1IDI6NTA6MzcgUE0maGFzaF92YWx1ZT1EZVJIaWdoQ2g1eUhJRE9KVk9NUTBBPT0mdmFsaWRtaW51dGVzPTE=</link>
+<title>National Geographic</title>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>SyFy down</title>
-<link>http://88.150.252.137:1836/dell/224-syfy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE1IDI6NTU6MzAgUE0maGFzaF92YWx1ZT1ERW1aRng2ZHpKN1FDRDF0MXVxR3dBPT0mdmFsaWRtaW51dGVzPTE=</link>
+<title>SyFy</title>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Bravo down</title>
-<link>http://88.150.252.137:1836/dell/224-bravo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE1IDM6MDA6NTIgUE0maGFzaF92YWx1ZT1NdytPZjd5bXp5UUVDOTFFY0RDUWNBPT0mdmFsaWRtaW51dGVzPTE=</link>
+<title>Bravo</title>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bravo_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Spike down</title>
+<title>Spike</title>
 <link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png</thumbnail>
 <fanart></fanart>
