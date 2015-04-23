@@ -408,7 +408,7 @@
 <item>
 <title>[COLOR green]Sky Movies Disney [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4247</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_disney.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -416,7 +416,7 @@
  <item>
 <title>[COLOR green]Sky Movies Family [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4248</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_family.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -424,7 +424,7 @@
 <item>
 <title>[COLOR green]Sky Movies Sci Fi & Horror [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4249</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
