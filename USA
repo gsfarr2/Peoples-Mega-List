@@ -224,7 +224,7 @@
 
 <item>
 <title>SyFy</title>
-<link></link>
+<link>rtmpe://192.99.38.90:1935/goLive playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -240,7 +240,7 @@
 
 <item>
 <title>Spike</title>
-<link></link>
+<link>http://50.7.69.186:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -271,8 +271,8 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>TBS</title>
+<link>rtmp://178.18.31.61:443/liverepeater playpath=191916 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
