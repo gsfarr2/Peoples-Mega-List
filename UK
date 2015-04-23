@@ -413,13 +413,6 @@
 <info></info>
 </item>
 
-#EXTINF:0,Sky Movies Disney
-http://185.56.30.123:8082/TV4247
-#EXTINF:0,Sky  Movies Family
-http://185.56.30.123:8082/TV4248
-#EXTINF:0,Sky   Movies SciFi
-http://185.56.30.123:8082/TV4249
-
  <item>
 <title>[COLOR green]Sky Movies Family [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4248</link>
