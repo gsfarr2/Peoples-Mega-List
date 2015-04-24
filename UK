@@ -166,6 +166,50 @@
 </item>
 
 <item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart> <item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> <item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> </fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR green]CBS Action[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail>
@@ -492,21 +536,3 @@
 <fanart></fanart>
 <info></info>
 </item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-
