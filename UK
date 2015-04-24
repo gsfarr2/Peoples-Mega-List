@@ -518,7 +518,7 @@
 </item>
 
 <item>
-<title>MTV Dance</title>
+<title>[COLOR green]MTV Dance[/COLOR]</title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/variant.m3u8?version=2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -526,7 +526,7 @@
 </item>
 
 <item>
-<title>MTV Hits</title>
+<title>[COLOR green]MTV Hits[/COLOR]</title>
 <link>http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -534,7 +534,7 @@
 </item>
 
 <item>
-<title>MTV Rocks</title>
+<title>[COLOR green]MTV Rocks[/COLOR]</title>
 <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/variant.m3u8?version=2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -542,7 +542,7 @@
 </item>
 
 <item>
-<title>MTV LIVE</title>
+<title>[COLOR green]MTV LIVE[/COLOR]</title>
 <link>http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -550,7 +550,7 @@
 </item>
 
 <item>
-<title>MTV LIVE HD</title>
+<title>[COLOR green]MTV LIVE HD[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -558,7 +558,7 @@
 </item>
 
 <item>
-<title>VH1 HD</title>
+<title>[COLOR green]VH1 HD[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
