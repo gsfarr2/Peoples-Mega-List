@@ -496,7 +496,7 @@
 <item>
 <title>[COLOR green]Vevo1 HD[/COLOR]</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320121429/logopedia/images/3/35/Vevo_09.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -504,7 +504,7 @@
 <item>
 <title>[COLOR green]Vevo2 HD[/COLOR]</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320121429/logopedia/images/3/35/Vevo_09.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -512,7 +512,7 @@
 <item>
 <title>[COLOR green]Vevo3 HD[/COLOR]</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320121429/logopedia/images/3/35/Vevo_09.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -520,7 +520,7 @@
 <item>
 <title>[COLOR green]MTV Dance[/COLOR]</title>
 <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/variant.m3u8?version=2</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_dance_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -528,7 +528,7 @@
 <item>
 <title>[COLOR green]MTV Hits[/COLOR]</title>
 <link>http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_au.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -536,7 +536,7 @@
 <item>
 <title>[COLOR green]MTV Rocks[/COLOR]</title>
 <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/variant.m3u8?version=2</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_rocks_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -544,7 +544,7 @@
 <item>
 <title>[COLOR green]MTV LIVE[/COLOR]</title>
 <link>http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_de.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -552,7 +552,7 @@
 <item>
 <title>[COLOR green]MTV LIVE HD[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_live_hd_au.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -560,7 +560,7 @@
 <item>
 <title>[COLOR green]VH1 HD[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vh1_in.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
