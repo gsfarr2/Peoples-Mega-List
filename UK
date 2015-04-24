@@ -446,17 +446,17 @@
 </item>
 
 <item>
-<title>Sky Sports 2</title>
+<title>[COLOR green]Sky Sports 2[/COLOR</title>
 <link>rtmp://178.18.31.55:443/liverepeater playpath=191328 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Sky Sports 3</title>
+<title>[COLOR green]Sky Sports 3[/COLOR]</title>
 <link>rtmpe://46.246.124.22:1935/liveedge swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 live=true</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -470,33 +470,25 @@
 </item>
 
 <item>
-<title>Sky Sports 5</title>
+<title>[COLOR green]Sky Sports 5[/COLOR]</title>
 <link>rtmp://178.18.31.55:443/liverepeater playpath=191330 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Sky Sports F1 [COLOR red]NOT WORKING[/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>BT Sport 1</title>
+<link>rtmp://137.63.71.18:443/liverepeater playpath=12 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=12&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>BT Sport 2</title>
+<link>rtmp://178.18.31.60:443/liverepeater playpath=191836 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191836&width=620&height=490 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
