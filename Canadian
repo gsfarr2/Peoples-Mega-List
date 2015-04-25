@@ -48,7 +48,7 @@
 
 <item>
 <title>[COLOR green]Sportsnet One [/COLOR]</title>
-<link>http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8</link>
+<link>rtmp://31.220.0.206:1935/live/_definst_/sportsnetw</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
