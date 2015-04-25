@@ -182,86 +182,6 @@
 </item>
 
 <item>
-<title>[COLOR green]Smash Hits[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/smash_hits_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]4 Music[/COLOR]</title>
-<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?husham.com</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_music.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Heat</title>
-<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/heat_tv_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]The BOX[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/the_box_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Planet Pop[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/planet_pop_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Kiss[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kiss_tv_ro.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Capital TV[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/capital_tv_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Heart TV[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/heart_tv_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Now That’s What I Call Music[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/now_thats_what_i_call_music_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Clubland[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>Quest</title>
 <link></link>
 <thumbnail></thumbnail>
@@ -322,14 +242,6 @@
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_uk.png</thumbnail>
 <fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Box Nation[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</thumbnail>
-<fanart>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</fanart>
 <info></info>
 </item>
 
@@ -482,6 +394,14 @@
 <link>rtmp://178.18.31.60:443/liverepeater playpath=191836 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191836&width=620&height=490 token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2.png</thumbnail>
 <fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Box Nation[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</fanart>
 <info></info>
 </item>
 
@@ -694,81 +614,81 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Smash Hits[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/smash_hits_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]4 Music[/COLOR]</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?husham.com</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_music.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
+<title>Heat</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/heat_tv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]The BOX[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/the_box_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Planet Pop[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/planet_pop_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Kiss[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kiss_tv_ro.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Capital TV[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/capital_tv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Heart TV[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/heart_tv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Now That’s What I Call Music[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/now_thats_what_i_call_music_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]Clubland[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
