@@ -64,7 +64,7 @@
 <item>
 <title>[COLOR green]S4C  (Wales) [/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8</link>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20140418165230/firemansam/images/b/be/S4C_logo_2014.svg.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -72,7 +72,7 @@
 <item>
 <title>[COLOR green]BBC Entertainment Europe[/COLOR]</title>
 <link>http://81.92.105.135:5555/pl.m3u8?channel=143</link>
-<thumbnail>http://fromblightywithlove.org/wp-content/uploads/2009/10/bbc-entertainment-logo.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -80,7 +80,7 @@
 <item> 
 <title>[COLOR green]BBC Alba  (Scotland) [/COLOR]</title>
 <link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_2%3D96000-video%3D1374000.m3u8</link>
-<thumbnail>http://www.thedrum.com/uploads/drum_basic_article/94080/main_images/bbc-alba.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_alba.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -112,7 +112,7 @@
 <item>
 <title>[COLOR green]TG4 (Ireland) [/COLOR]</title>
 <link>http://212.250.46.35:4252/bysid/9603</link>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20130711075901/logopedia/images/1/19/TG4_logo.svg.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tg4.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -320,7 +320,7 @@
 <item>
 <title>[COLOR green]Sky Movies Select [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4254</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_select_hd.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -328,7 +328,7 @@
 <item>
 <title>[COLOR green]Sky Movies Action & Adventure [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4245</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_action_adventure.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_action_adventure.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -336,7 +336,7 @@
 <item>
 <title>[COLOR green]Sky Movies Comedy [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4246</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_comedy.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -344,7 +344,7 @@
 <item>
 <title>[COLOR green]Sky Movies Disney [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4247</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_disney.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_disney.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -352,7 +352,7 @@
  <item>
 <title>[COLOR green]Sky Movies Family [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4248</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_family.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_family.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -360,7 +360,7 @@
 <item>
 <title>[COLOR green]Sky Movies Sci Fi & Horror [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4249</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_scifi_horror.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -368,7 +368,7 @@
 <item>
 <title>[COLOR green]Sky Arts 2 [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4250</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20111101121015/logopedia/images/5/57/Sky_arts2_2011.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_arts2.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -376,7 +376,7 @@
  <item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4284</link>
-<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/344074d1369163257-rangers-then-rangers-now-rangers-forever-56903833.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -416,7 +416,7 @@
 <item>
 <title>[COLOR green]Sky Sports F1 [/COLOR]</title>
 <link>rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040 </thumbnail>
+<thumbnail>http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -440,7 +440,7 @@
 <item>
 <title>[COLOR green]At The Races [/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/At_The_Races_logo_(2005-2008).svg/800px-At_The_Races_logo_(2005-2008).svg.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item> 
