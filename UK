@@ -77,6 +77,14 @@
 <info></info>
 </item>
 
+</item> 
+<title>[COLOR green]BBC Alba [/COLOR]</title>
+<link> http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_2%3D96000-video%3D1374000.m3u8 </link>
+<thumbnail>http://www.thedrum.com/uploads/drum_basic_article/94080/main_images/bbc-alba.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
+
 <item>
 <title>[COLOR green]RTE One[/COLOR]</title>
 <link>http://212.250.46.35:4252/bysid/9601</link>
