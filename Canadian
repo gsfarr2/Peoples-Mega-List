@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>TSN 1</title>
+<title>[COLOR green]TSN 1[/COLOR]</title>
 <link>rtmp://178.18.31.51:443/liverepeater playpath=191783 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191783&width=620&height=490 token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png</thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>TSN 2</title>
+<title>[COLOR green]TSN 2[/COLOR]</title>
 <link>rtmp://178.18.31.61:443/liverepeater playpath=191784 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191784&width=620&height=490 token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png</thumbnail>
 <fanart></fanart>
@@ -49,7 +49,7 @@
 <item>
 <title>[COLOR green]TSN 3[/COLOR]</title>
 <link>rtmpe://46.246.124.86:1935/liveedge playpath=llive1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
