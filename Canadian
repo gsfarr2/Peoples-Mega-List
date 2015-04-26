@@ -47,9 +47,9 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Sportsnet One  (buffering poor) [/COLOR]</title>
-<link>rtmp://31.220.0.206:1935/live/_definst_/sportsnetw</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20120424202316/logopedia/images/1/18/1000px-Sportsnetone2011_svg.png</thumbnail>
+<title>[COLOR green]TSN 3[/COLOR]</title>
+<link>rtmpe://46.246.124.86:1935/liveedge playpath=llive1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
