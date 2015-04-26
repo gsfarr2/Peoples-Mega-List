@@ -206,9 +206,9 @@
 </item>
 
 <item>
-<title>E! Entertainment HD</title>
-<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
+<title>Dave</title>
+<link>http://live308.edge.filmon.com/live/370.low.stream/chunklist_w1063625883.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dave_uktv.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -216,7 +216,7 @@
 <item>
 <title>Quest</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/qq/quest_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -376,7 +376,7 @@
  <item>
 <title>[COLOR green]Sky Sports 1HD[/COLOR]</title>
 <link>rtmp://195.154.168.217:80/liverepeater/303035 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -425,7 +425,7 @@
 <item>
 <title>[COLOR green]Sky Sports F1 [/COLOR]</title>
 <link>rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -442,7 +442,7 @@
 <item>
 <title>[COLOR green]BT Sport 1 (Back-up) [/COLOR]</title>
 <link>rtmp://195.154.168.217:80/liverepeater/303023 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -475,6 +475,23 @@
 <title>[COLOR green]Eurosport[/COLOR]</title>
 <link>rtmp://178.18.31.61:443/liverepeater playpath=191695 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191695&width=620&height=490 token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Eurosport 2[/COLOR]</title>
+<link>rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=700&height=450
+ token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]MUTV[/COLOR]</title>
+<link>rtmp://live1.greenlie.org:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE1IDEyOjQ0OjA4IEFNJmhhc2hfdmFsdWU9c1o3QnJqdFZFbU5Ja1hYS3BCL011QT09JnZhbGlkbWludXRlcz0yMA==/ playpath=mutv-hq swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.liveonlinetv247.info/embed/mutv.php?width=700&height=480 token=416001389&amp;forcesecure=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mutv.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
