@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>TF1 HD</title>
+<title>[COLOR green]TF1 HD[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/tf1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>HD1</title>
+<title>[COLOR green]HD1[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/hd1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>FRANCEO</title>
+<title>[COLOR green]FRANCEO[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/franceo.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>FRANCE3</title>
+<title>[COLOR green]FRANCE3[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/france3.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>FRANCE4</title>
+<title>[COLOR green]FRANCE4[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/france4.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>CANAL+</title>
+<title>[COLOR green]CANAL+[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/canalplus.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>CANAL+ SPORT</title>
+<title>[COLOR green]CANAL+ SPORT[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/canalsport.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>d8</title>
+<title>[COLOR green]d8[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/d8.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>ARTE</title>
+<title>[COLOR green]ARTE[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/arte.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -103,7 +103,7 @@
 </item>
 
 <item>
-<title>M6</title>
+<title>[COLOR green]M6[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/m6.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<title>6TER</title>
+<title>[COLOR green]6TER[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/6ter.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>W9</title>
+<title>[COLOR green]W9[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/w9.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -127,7 +127,7 @@
 </item>
 
 <item>
-<title>TMC</title>
+<title>[COLOR green]TMC[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/tmc.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -135,7 +135,7 @@
 </item>
 
 <item>
-<title>NRJ12</title>
+<title>[COLOR green]NRJ12[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/nrj12.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>D17</title>
+<title>[COLOR green]D17[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/d17.m3u</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-<title>TELE</title>
+<title>[COLOR green]TELE[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/itele.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -159,7 +159,7 @@
 </item>
 
 <item>
-<title>GULLI</title>
+<title>[COLOR green]GULLI[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/gulli.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -167,7 +167,7 @@
 </item>
 
 <item>
-<title>L`EQUIPE21</title>
+<title>[COLOR green]L`EQUIPE21[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/lequipe.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -175,7 +175,7 @@
 </item>
 
 <item>
-<title>BMFTV</title>
+<title>[COLOR green]BMFTV[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/bfm.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -183,7 +183,7 @@
 </item>
 
 <item>
-<title>Ciné Fil</title>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
 <link>rtmp://str81.creacast.com:80/cna/live.sdp</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>Ciné Fil</title>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
 <link>http://teleclub.fr/cinefil.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -199,7 +199,7 @@
 </item>
 
 <item>
-<title>Ciné Fil</title>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
 <link>http://tv.ut.cx/cinefil.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -207,7 +207,7 @@
 </item>
 
 <item>
-<title>Cinetoile</title>
+<title>[COLOR green]Cinetoile[/COLOR]</title>
 <link>http://teleclub.fr/cinetoile.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -215,7 +215,7 @@
 </item>
 
 <item>
-<title>Cinetoile</title>
+<title>[COLOR green]Cinetoile[/COLOR]</title>
 <link>http://tv.ut.cx/cinetoile.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -223,7 +223,7 @@
 </item>
 
 <item>
-<title>Cinq+</title>
+<title>[COLOR green]Cinq+[/COLOR]</title>
 <link>http://tv.ut.cx/cinqplus.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -231,7 +231,7 @@
 </item>
 
 <item>
-<title>Cinq+</title>
+<title>[COLOR green]Cinq+[/COLOR]</title>
 <link>http://teleclub.fr/cinqplus.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -239,7 +239,7 @@
 </item>
 
 <item>
-<title>Club 1</title>
+<title>[COLOR green]Club 1[/COLOR]</title>
 <link>http://teleclub.fr/club1.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
