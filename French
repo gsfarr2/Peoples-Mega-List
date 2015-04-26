@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR green]TF1 HD[/COLOR]</title>
+<title>[COLOR red]TF1 HD[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/tf1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR green]HD1[/COLOR]</title>
+<title>[COLOR red]HD1[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/hd1.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR green]FRANCEO[/COLOR]</title>
+<title>[COLOR red]FRANCEO[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/franceo.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR green]FRANCE3[/COLOR]</title>
+<title>[COLOR red]FRANCE3[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/france3.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>[COLOR green]FRANCE4[/COLOR]</title>
+<title>[COLOR red]FRANCE4[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/france4.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR green]d8[/COLOR]</title>
+<title>[COLOR green]D8[/COLOR]</title>
 <link>http://stream4.latvdefrance.com/demo/d8.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
