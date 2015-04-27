@@ -8,11 +8,17 @@
 
 
 <item>
-<title><COLOR aqua>***world TV***</COLOR></title>
+<title><COLOR aqua>***UK Documentaries***</COLOR></title>
 </item>
 
 
-
+<item>
+<title>[COLOR green]National Geographic [/COLOR]</title> 
+<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</fanart>
+<info></info>
+</item>
 
 
 
