@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>[COLOR green]S4C  (Wales) [/COLOR]</title>
+<title>[COLOR green]S4C  (Wales)[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png</thumbnail>
 <fanart></fanart>
@@ -78,7 +78,7 @@
 </item>
 
 <item> 
-<title>[COLOR green]BBC Alba  (Scotland) [/COLOR]</title>
+<title>[COLOR green]BBC Alba  (Scotland)[/COLOR]</title>
 <link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_2%3D96000-video%3D1374000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_alba.png</thumbnail>
 <fanart></fanart>
@@ -110,7 +110,7 @@
 </item>
 
 <item>
-<title>[COLOR green]TG4 (Ireland) [/COLOR]</title>
+<title>[COLOR green]TG4 (Ireland)[/COLOR]</title>
 <link>http://212.250.46.35:4252/bysid/9603</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tg4.png</thumbnail>
 <fanart></fanart>
