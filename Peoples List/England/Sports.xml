@@ -8,11 +8,203 @@
 
 
 <item>
-<title><COLOR aqua>***world TV***</COLOR></title>
+<title><COLOR aqua>***UK Sports***</COLOR></title>
 </item>
 
 
+<item>
+<title>[COLOR green]Sky Sports 1 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303035 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[COLOR green]Sky Sports 2 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303018 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 3 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303019 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 4 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303020 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 5 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303021 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 1[/COLOR]</title>
+<link>rtmp://178.18.31.51:443/liverepeater playpath=191327 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 2[/COLOR]</title>
+<link>rtmp://178.18.31.55:443/liverepeater playpath=191328 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 3[/COLOR]</title>
+<link>rtmpe://46.246.124.22:1935/liveedge swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 4[/COLOR]</title>
+<link>rtmp://80.82.78.85:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=650&height=470
+ token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 5[/COLOR]</title>
+<link>rtmp://178.18.31.55:443/liverepeater playpath=191330 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports F1 [/COLOR]</title>
+<link>rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports News[/COLOR]</title>
+<link>rtmp://141.255.160.202:1935/stream playpath=1KnYJyfnK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3w5a5v476a4h4x474n264s21413t214b433q2p2v2&adx=&stream=g5q2c4e4k5e4v244j54434b474a4z2n244v4k4x3e3w4e4w5x4b4t244w2q2a4x2q2y20334r214t2y2s4f4b5v466o5i4i3y3j4i4v5f4k5g2p3g5m574m494o2t2563434t2y3x274c4c49484t2e4x274436334v264a4749494v29444w284u2i5w2s2a4947454l2s2t2343434t2y3s2&sooor=NA==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BT Sport 1[/COLOR]</title>
+<link>rtmp://178.18.31.52:443/liverepeater playpath=191331 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191331&width=650&height=480 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BT Sport 1 (Back-up) [/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303023 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BT Sport 2[/COLOR]</title>
+<link>rtmp://178.18.31.60:443/liverepeater playpath=191836 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191836&width=620&height=490 token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]At The Races [/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR green]Racing UK [/COLOR]</title>
+<link>http://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ruk/playlist.m3u8</link>
+<thumbnail>http://www.becreative.co.uk/wp-content/uploads/2013/07/RacingUK_logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Box Nation[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/logo/tv/bb/box_nation.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Premier Sports[/COLOR]</title>
+<links>rtmp://109.123.70.38:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=premiersport?golf?btx22?mutvr?starsp4?ptvsports011?nbar?wefewf43g3?ssxk2?espn22?sx2?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z</links>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Eurosport[/COLOR]</title>
+<link>rtmp://41.242.151.4:80/live playpath=e1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://reytv.co/embedo.php?live=e1&vw=620&vh=490</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Eurosport 2[/COLOR]</title>
+<link>rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=700&height=450
+ token=#atd%#$ZH live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]WWE Network[/COLOR]</title>
+<link>rtmp://80.82.78.85:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=700&height=450 token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]MUTV[/COLOR]</title>
+<link>rtmp://41.242.151.2:80/live playpath=mutvr swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://reytv.co/embedo.php?live=mutvr&vw=620&vh=490</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mutv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Motorz TV[/COLOR]</title>
+<ftv>262</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
