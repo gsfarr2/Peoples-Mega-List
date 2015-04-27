@@ -12,7 +12,165 @@
 </item>
 
 
+<item>
+<title>RAI 1</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>RAI 2</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI 3</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI 4</title>
+<link>mmsh://212.162.68.162:80/Rai4/Rai4?MSWMExt=.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI 5</title>
+<link>mmsh://212.162.68.162/rai5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI MOVIE</title>
+<link>http://stream6.rai.it/italy/raimovie_android.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI PREMIUM </title>
+<link>http://originstream7.rai.it/italy/smil:raipremium_android.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI GULP</title>
+<link>mmsh://212.162.68.163:80/Rai_gulp?MSWMExt.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI YOYO</title>
+<link>mmsh://212.162.68.163:80/Rai_yoyo?MSWMExt.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI SCUOLA</title>
+<link>mmsh://212.162.68.163:80/rai_scuola?MSWMExt.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI NEWS 24</title>
+<link>http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI STORIA</title>
+<link>mmsh://212.162.68.163/rai_storia?MSWMExt.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI SPORT 1</title>
+<link>mmsh://212.162.68.163:80/raisport+?MSWMExt=.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RAI SPORT 2</title>
+<link>mmsh://212.162.68.163:80/raisport2?MSWMExt=.asf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>LA 7</title>
+<link>http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>MTV</title>
+<link>https://viacomitalytest-lh.akamaihd.net/i/Mtv_it@109467/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>SKY TG 24</title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CIELO</title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8?b?b*t$</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Sardegna 1</title>
+<link>rtmp://94.32.101.17/sardegna1/live1.stream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>VIDEOLINA</title>
+<link>rtmp://178.33.229.111/live/Videolina</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
