@@ -8,10 +8,241 @@
 
 
 <item>
-<title><COLOR aqua>***world TV***</COLOR></title>
+<title><COLOR aqua>***French TV***</COLOR></title>
 </item>
 
 
+<item>
+<title>[COLOR green]RDS HD [/COLOR]</title>
+<link>http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8 <link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/3/36/Logo_RDS_HD.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]RDS 2HD [/COLOR]</title>
+<link>http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/35/RDS2_HD.PNG</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]TF1 HD[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/tf1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]HD1[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/hd1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]FRANCEO[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/franceo.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]FRANCE3[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/france3.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]FRANCE4[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/france4.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]CANAL+[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/canalplus.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]CANAL+ SPORT[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/canalsport.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]D8[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/d8.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ARTE[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/arte.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]M6[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/m6.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]6TER[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/6ter.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]W9[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/w9.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]TMC[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/tmc.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]NRJ12[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/nrj12.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]D17[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/d17.m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]TELE[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/itele.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]GULLI[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/gulli.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]L`EQUIPE21[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/lequipe.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BMFTV[/COLOR]</title>
+<link>http://stream4.latvdefrance.com/demo/bfm.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
+<link>rtmp://str81.creacast.com:80/cna/live.sdp</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
+<link>http://teleclub.fr/cinefil.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Ciné Fil[/COLOR]</title>
+<link>http://tv.ut.cx/cinefil.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Cinetoile[/COLOR]</title>
+<link>http://teleclub.fr/cinetoile.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Cinetoile[/COLOR]</title>
+<link>http://tv.ut.cx/cinetoile.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Cinq+[/COLOR]</title>
+<link>http://tv.ut.cx/cinqplus.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Cinq+[/COLOR]</title>
+<link>http://teleclub.fr/cinqplus.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Club 1[/COLOR]</title>
+<link>http://teleclub.fr/club1.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
