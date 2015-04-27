@@ -8,11 +8,73 @@
 
 
 <item>
-<title><COLOR aqua>***world TV***</COLOR></title>
+<title><COLOR aqua>***UK Movies***</COLOR></title>
 </item>
 
 
+<item>
+<title>[COLOR green]Sky Movies Premiere [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4251<link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_plus1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[COLOR green]Sky Movies Premiere+ [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4252</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_plus1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Movies Select [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4254</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Movies Action & Adventure [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4245</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_action_adventure.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Movies Comedy [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4246</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_comedy.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Movies Disney [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4247</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_disney.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+ <item>
+<title>[COLOR green]Sky Movies Family [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4248</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_family.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Movies Sci Fi & Horror [/COLOR]</title>
+<link>http://185.56.30.123:8082/TV4249</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_scifi_horror.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
