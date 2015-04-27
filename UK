@@ -215,9 +215,9 @@
 </item>
 
 <item>
-<title>[COLOR green]Motors TV [/COLOR]</title>
-<link>http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_uk.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -304,7 +304,7 @@
 </item>
 
 <item>
-<title>Motorz TV</title>
+<title>[COLOR green]Motorz TV[/COLOR]</title>
 <ftv>262</ftv>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_uk.png</thumbnail>
 <fanart></fanart>
