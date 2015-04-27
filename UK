@@ -456,7 +456,6 @@
 <info></info>
 </item>
 
-
 <item>
 <title>[COLOR green]BT Sport 1[/COLOR]</title>
 <link>rtmp://178.18.31.52:443/liverepeater playpath=191331 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191331&width=650&height=480 token=#atd%#$ZH live=1</link>
@@ -526,6 +525,14 @@
 <link>rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=700&height=450
  token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>WWE Network</title>
+<link>rtmp://80.82.78.85:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=700&height=450 token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
