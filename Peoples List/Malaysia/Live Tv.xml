@@ -12,7 +12,101 @@
 </item>
 
 
+<item>
+<title>RTM 1</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>RTM 2</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>NTV7</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/ntv7.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>8TV</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>GALAKSI MUZIK - RTM</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2204686828/tweet_logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>AKSI SUKAN - RTM</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch022.stream/playlist.m3u8</link>
+<thumbnail>http://live.rtm.gov.my/aksisukan/images/logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TVi - RTM</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>1NEWS</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/chunklist.m3u8</link>
+<thumbnail>http://myklik.rtm.gov.my/img/logo/tv/1news.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BERNAMA TV</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w1145460817_b878000_sleng.m3u8</link>
+<thumbnail>http://amantinuklear.org/wp-content/uploads/2015/01/BERNAMA-LOGO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Astro Oasis</title>
+<link>http://layarku.dynns.com:1166/tip=live.qx169.com:2028/53940b23000dd40a4ec359ee0d720ca8.m3u8</link>
+<thumbnail>http://www.zilamahadi.com/wp-content/uploads/2015/04/Astro_Oasis_logo-585x235.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
