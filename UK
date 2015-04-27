@@ -492,7 +492,7 @@
 <item>
 <title>[COLOR green]Sky Sports News[/COLOR]</title>
 <link>rtmp://141.255.160.202:1935/stream playpath=1KnYJyfnK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3w5a5v476a4h4x474n264s21413t214b433q2p2v2&adx=&stream=g5q2c4e4k5e4v244j54434b474a4z2n244v4k4x3e3w4e4w5x4b4t244w2q2a4x2q2y20334r214t2y2s4f4b5v466o5i4i3y3j4i4v5f4k5g2p3g5m574m494o2t2563434t2y3x274c4c49484t2e4x274436334v264a4749494v29444w284u2i5w2s2a4947454l2s2t2343434t2y3s2&sooor=NA==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_news_hq.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -532,7 +532,7 @@
 <item>
 <title>[COLOR green]Racing UK [/COLOR]</title>
 <link>http://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ruk/playlist.m3u8</link>
-<thumbnail>http://www.becreative.co.uk/wp-content/uploads/2013/07/RacingUK_logo.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/racing_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -573,7 +573,7 @@
 <item>
 <title>[COLOR green]WWE Network[/COLOR]</title>
 <link>rtmp://80.82.78.85:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=700&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
