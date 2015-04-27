@@ -8,11 +8,33 @@
 
 
 <item>
-<title><COLOR aqua>***world TV***</COLOR></title>
+<title><COLOR aqua>***UK News***</COLOR></title>
 </item>
 
 
+<item>
+<title>[COLOR green]Sky News[/COLOR]</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_news.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[COLOR green]BBC News[/COLOR]</title>
+<ftv>27</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Euronews[/COLOR]</title>
+<ftv>1672</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
