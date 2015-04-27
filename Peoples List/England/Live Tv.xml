@@ -12,7 +12,270 @@
 </item>
 
 
+<item>
+<title>[COLOR green]BBC One[/COLOR]</title>
+<ftv>14</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
+<item>
+<title>[COLOR green]BBC Two[/COLOR]</title>
+<ftv>25</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ITV[/COLOR]</title>
+<ftv>11</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Channel Four[/COLOR]</title>
+<ftv>2</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Channel 5[/COLOR]</title>
+<ftv>22</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Channel 5 +24[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_uk_plus24.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]S4C  (Wales)[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BBC Entertainment Europe[/COLOR]</title>
+<link>http://81.92.105.135:5555/pl.m3u8?channel=143</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item> 
+<title>[COLOR green]BBC Alba  (Scotland)[/COLOR]</title>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_2%3D96000-video%3D1374000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_alba.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]RTE One[/COLOR]</title>
+<link>http://212.250.46.35:4252/bysid/9601</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rte_one.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]RTE Two[/COLOR]</title>
+<link>http://212.250.46.35:4252/bysid/9602</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rte_2_ie.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]RTEjr[/COLOR]</title>
+<link>http://212.250.46.35:4252/bysid/9606</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rte_jr_tv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]TG4 (Ireland)[/COLOR]</title>
+
+<link>http://212.250.46.35:4252/bysid/9603</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tg4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BBC Three[/COLOR]</title>
+<ftv>113</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_three.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]BBC Four[/COLOR]</title>
+<ftv>103</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_four_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]5Star[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_star_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]5USA[/COLOR]</title>
+<ftv>845</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_usa.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ITV2[/COLOR]</title>
+<ftv>67</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ITV3[/COLOR]</title>
+<ftv>26</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ITV4[/COLOR]</title>
+<ftv>101</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]ITV be [/COLOR]</title>
+<link>http://78.129.175.72/live/itvbe/itvbe.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140703182735/logopedia/images/3/3f/ITV_Be.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+<item>
+<title>[COLOR green]E4[/COLOR]</title>
+<ftv>65</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e4_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]More 4[/COLOR]</title>
+<ftv>97</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_more4_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]4 Seven[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_seven_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]CBS Action[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Pick Tv[/COLOR]</title>
+<ftv>371</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv_ie.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Dave[/COLOR]</title>
+<ftv>370</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dave_uktv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Quest[/COLOR]</title>
+<link>http://live307.edge.filmon.com/live/2707.low.stream/media_w281518074_141141.ts?id=0ad5aac39bb13fbe6b02269d724c467e15701c895cdd2968a71df18c3160e9a19ac1146bbe0012472753b878712400956bdb74df9cb079f689a47a9889700d5586fd3ad61d77da80ce91646a2a7e7d9bf43695ad939d65dec32a55f33e6bc863cfb91ebae389bf48bdf6faa35680d08912ff23323f59da920b2b28620907ae0ace9d5cc1ebe136206835e3938152087a8d3ced26139dc2eb</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/qq/quest_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Film Four[/COLOR]</title>
+<ftv>13</ftv>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/film4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]True Movies 1[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_movies1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]True Movies 2[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_movies2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>True Entertainment</title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_entertainment.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>True Drama</title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_drama_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
