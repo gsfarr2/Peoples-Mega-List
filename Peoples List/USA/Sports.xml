@@ -17,78 +17,92 @@
 
 
 <item>
-<title> </title>
-<link> </link>
+<title>[COLOR green]Premier Sports[/COLOR]</title>
+<link>rtmp://109.123.70.38:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=premiersport?golf?btx22?mutvr?starsp4?ptvsports011?nbar?wefewf43g3?ssxk2?espn22?sx2?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z </link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png </thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]NBA TV[/COLOR]</title>
+<link>http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830</link>
+<thumbnail>http://networkwestvirginia.com/wp-content/uploads/2014/01/nba-logo-png.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]NBC Sports Network 1080p[/COLOR]</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]WWE Network[/COLOR]</title>
+<link>rtmp://80.82.78.26:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140112181831/logopedia/images/3/39/WWENetwork.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]PPV Boxing[/COLOR]<title>
+http://imveoh.info/prueba.php?n=http://server01.kenhhd.tv/movie01/edc4c52ad832c8286a5ea5e672e328ab/5536cb22/manny.2014_0_291.mp4</link>
+<thumbnail>http://imveoh.info/wp-content/images/518955_xl.jpg    </thumbnail> </title>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]Fox Sports 1[/COLOR]</title>
+<link>rtmp://178.18.31.59:443/liverepeater playpath=191781 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191781&width=620&height=490 token=#atd%#$ZH live=1</link>
+<thumbnail></thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]Fox Sports HD Europe[/COLOR]</title>
+<link>http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title> </title>
-<link> </link>
+<title>[COLOR green]Fox Sports 2[/COLOR]</title>
+<link>rtmp://178.18.31.56:443/liverepeater playpath=191782 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/streamcr.php?id=191782&width=620&height=490 token=#atd%#$ZH live=1</link>
+<thumbnail></thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]Fox Sports 2[/COLOR]</title>
+<link>http://203.162.235.124:5555/udp/225.2.100.91:5000</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title> </title>
-<link> </link>
+<title>[COLOR green]NBC Golf[/COLOR]</title>
+<link>rtmp://41.242.151.2:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490</link>
+<thumbnail></thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]Sportsnet 360 HD[/COLOR]</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title> </title>
-<link> </link>
+<title>[COLOR green]MMA Channel[/COLOR]</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3 </link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
-
-<item>
-<title> </title>
-<link> </link>
+<title>[COLOR green]NBCSN[/COLOR]</title>
+<link>rtmp://31.220.0.195:80/live playpath=premiersport swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
