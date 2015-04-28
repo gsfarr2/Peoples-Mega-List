@@ -22,7 +22,7 @@
 
 <item>
 <title>[COLOR green]BBC News[/COLOR]</title>
-<ftv>27</ftv>
+<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -30,7 +30,7 @@
 
 <item>
 <title>[COLOR green]Euronews[/COLOR]</title>
-<ftv>1672</ftv>
+<link>http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
