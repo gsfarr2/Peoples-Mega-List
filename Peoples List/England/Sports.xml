@@ -11,6 +11,19 @@
 <title><COLOR aqua>***UK Sports***</COLOR></title>
 </item>
 
+<item>
+<title>Random Sport 1</title>
+<link>rtmp://199.168.116.12/app playpath=streamspstreams-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/streamspstreams-Channel/plugins/video/show?autoplayAudio=true</link>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>Random Sport 2 </title>
+<link>rtmp://167.114.157.88/app playpath=mahmads-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/mahmads-Channel/plugins/video/show?autoplayAudio=true</link>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+</item>
 
 <item>
 <title>[COLOR green]Sky Sports 1 HD[/COLOR]</title>
@@ -607,19 +620,7 @@
 <fanart> </fanart>
 </item>
 
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
 
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
 
 <item>
 <title> </title>
