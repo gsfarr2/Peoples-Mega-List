@@ -13,7 +13,7 @@
 
 
 <item>
-<title>[COLOR green]National Geographic [/COLOR]</title> 
+<title>[COLOR green]National Geographic[/COLOR]</title> 
 <link>http://188.227.86.4:4022/udp/239.77.0.41:1234</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
 <fanart>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</fanart>
@@ -23,10 +23,10 @@
 
 
 <item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
+<title>[COLOR green]History[/COLOR]</title>
+<link>http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/media_7523.m3u8?wowzasessionid=1426231700 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_us.png</thumbnail>
+<fanart>http://ao-xbmc-repository.googlecode.com/svn/trunk/plugin.video.history.channel/fanart.jpg</fanart>
 </item>
 
 <item>
