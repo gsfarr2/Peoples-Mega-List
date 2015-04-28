@@ -13,9 +13,9 @@
 
 
 <item>
-<title>Disney Cinemagic</title>
+<title></title>
 <link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_cinemagic_fr_plus1.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -94,7 +94,7 @@
 
 <item>
 <title></title>
-<link></link> </link>
+<link></link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -114,8 +114,8 @@
 </item>
 
 <item>
-<title> </title>
-<link> </link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -397,7 +397,7 @@
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
-<fanart> </fanart>
+<fanart></fanart>
 </item>
 
 <item>
