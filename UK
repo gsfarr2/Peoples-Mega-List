@@ -15,7 +15,7 @@
 
 <item>
 <title>[COLOR green]BBC One[/COLOR]</title>
-<ftv>14</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -23,7 +23,7 @@
 
 <item>
 <title>[COLOR green]BBC Two[/COLOR]</title>
-<ftv>25</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -31,7 +31,7 @@
 
 <item>
 <title>[COLOR green]ITV[/COLOR]</title>
-<ftv>11</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -39,7 +39,7 @@
 
 <item>
 <title>[COLOR green]Channel Four[/COLOR]</title>
-<ftv>2</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -47,7 +47,7 @@
 
 <item>
 <title>[COLOR green]Channel 5[/COLOR]</title>
-<ftv>22</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -120,7 +120,7 @@
 
 <item>
 <title>[COLOR green]BBC Three[/COLOR]</title>
-<ftv>113</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_three.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -128,7 +128,7 @@
 
 <item>
 <title>[COLOR green]BBC Four[/COLOR]</title>
-<ftv>103</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_four_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -144,7 +144,7 @@
 
 <item>
 <title>[COLOR green]5USA[/COLOR]</title>
-<ftv>845</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_usa.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -152,7 +152,7 @@
 
 <item>
 <title>[COLOR green]ITV2[/COLOR]</title>
-<ftv>67</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv2.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -160,7 +160,7 @@
 
 <item>
 <title>[COLOR green]ITV3[/COLOR]</title>
-<ftv>26</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv3.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -168,7 +168,7 @@
 
 <item>
 <title>[COLOR green]ITV4[/COLOR]</title>
-<ftv>101</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv4.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -184,7 +184,7 @@
 
 <item>
 <title>[COLOR green]E4[/COLOR]</title>
-<ftv>65</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e4_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -192,7 +192,7 @@
 
 <item>
 <title>[COLOR green]More 4[/COLOR]</title>
-<ftv>97</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_more4_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -216,7 +216,7 @@
 
 <item>
 <title>[COLOR green]Pick Tv[/COLOR]</title>
-<ftv>371</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv_ie.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -224,7 +224,7 @@
 
 <item>
 <title>[COLOR green]Dave[/COLOR]</title>
-<ftv>370</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dave_uktv.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -240,7 +240,7 @@
 
 <item>
 <title>[COLOR green]Film Four[/COLOR]</title>
-<ftv>13</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/film4.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -289,7 +289,7 @@
 
 <item>
 <title>[COLOR green]BBC News[/COLOR]</title>
-<ftv>27</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -297,7 +297,7 @@
 
 <item>
 <title>[COLOR green]Euronews[/COLOR]</title>
-<ftv>1672</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -305,7 +305,7 @@
 
 <item>
 <title>[COLOR green]Motorz TV[/COLOR]</title>
-<ftv>262</ftv>
+
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
