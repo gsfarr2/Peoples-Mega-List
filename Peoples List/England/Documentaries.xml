@@ -30,14 +30,14 @@
 </item>
 
 <item>
-<title>[COLOR green]Discovery World[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<title>[COLOR red]Discovery World[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.5.2:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Investigation Discovery[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<title>[COLOR red]Investigation Discovery[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
