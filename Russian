@@ -47,9 +47,9 @@
 </item>
 
 <item>
-<title>E! Rus/Eng Dual Audio</title>
-<link>http://37.193.0.15:81/udp/239.1.3.12:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>Discovery Science Rus/Eng Dual Audio</title>
+<title>Discovery Science No Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.9:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_ca.png</thumbnail>
 <fanart></fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>Animal Planet Rus/Eng Dual Audio</title>
+<title>Animal Planet No Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.3:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>Nat Geo Wild Rus/Eng Dual Audio</title>
+<title>Nat Geo Wild No Dual Audio</title>
 <link>http://37.193.0.15:81/udp/239.1.5.16:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
 <fanart></fanart>
