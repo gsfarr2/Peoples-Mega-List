@@ -12,6 +12,24 @@
 </item>
 
 
+
+
+
+
+<item>
+<title>[COLOR green]History Europe[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<link>http://62.205.157.29:4022/udp/239.0.0.69:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_us.png</thumbnail>
+<fanart>http://ao-xbmc-repository.googlecode.com/svn/trunk/plugin.video.history.channel/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]Discovery World[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<link>http://37.193.0.15:81/udp/239.1.5.2:1234</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLOR green]National Geographic[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title> 
 <link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
@@ -20,24 +38,8 @@
 <info></info>
 </item>
 
-
-
 <item>
-<title>[COLOR green]History Europe[/COLOR]</title>
-<link>http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/media_7523.m3u8?wowzasessionid=1426231700</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_us.png</thumbnail>
-<fanart>http://ao-xbmc-repository.googlecode.com/svn/trunk/plugin.video.history.channel/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Discovery World[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
-<link>http://37.193.0.15:81/udp/239.1.5.2:1234</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]Investigation Discovery[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<title>[COLOR green]Investigation Discovery[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
