@@ -13,14 +13,14 @@
 
 <item>
 <title>[COLOR gold]Random Sport 1[/COLOR]</title>
-<link>rtmp://199.168.116.12/app playpath=streamspstreams-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/streamspstreams-Channel/plugins/video/show?autoplayAudio=true</link>
+<link>http://stream.ssh101.com/hls/mannogravity.m3u8</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
 <title>[COLOR gold]Random Sport 2[/COLOR]</title>
-<link>rtmp://167.114.157.88/app playpath=mahmads-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/mahmads-Channel/plugins/video/show?autoplayAudio=true</link>
+<link>http://stream.ssh101.com/hls/ginganigga.m3u8</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
