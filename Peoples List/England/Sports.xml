@@ -26,46 +26,6 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Sports 1 HD[/COLOR]</title>
-<link>rtmp://195.154.168.217:80/liverepeater/303035 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Sky Sports 2 HD[/COLOR]</title>
-<link>rtmp://195.154.168.217:80/liverepeater/303018 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Sky Sports 3 HD[/COLOR]</title>
-<link>rtmp://195.154.168.217:80/liverepeater/303019 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Sky Sports 4 HD[/COLOR]</title>
-<link>rtmp://195.154.168.217:80/liverepeater/303020 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR green]Sky Sports 5 HD[/COLOR]</title>
-<link>rtmp://195.154.168.217:80/liverepeater/303021 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>rtmp://178.18.31.51:443/liverepeater playpath=191327 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
@@ -219,3 +179,42 @@
 <info></info>
 </item>
 
+<item>
+<title>[COLOR red]Sky Sports 1 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303035 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 2 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303018 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 3 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303019 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 4 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303020 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 5 HD[/COLOR]</title>
+<link>rtmp://195.154.168.217:80/liverepeater/303021 swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
