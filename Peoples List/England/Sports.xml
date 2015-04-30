@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports 5[/COLOR]</title>
-<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -76,21 +76,6 @@
 <info></info>
 </item>
 
-<item>
-<title>[COLOR red]BT Sport 1 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=bt1hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]BT Sport 2 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=bt2hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
 
 <item>
 <title>[COLOR green]BT Sport 1[/COLOR]</title>
@@ -248,6 +233,22 @@
 <title>[COLOR red]Sky Sports News HD[/COLOR]</title>
 <link>rtmp://46.105.96.198:1935/send playpath=ssnewshd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_news_hq_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]BT Sport 1 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=bt1hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]BT Sport 2 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=bt2hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
