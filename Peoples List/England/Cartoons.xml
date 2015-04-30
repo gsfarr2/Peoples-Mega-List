@@ -21,35 +21,35 @@
 <item>
 <title>[COLOR green]CBBC[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://lyngsat-logo.com/logo/tv/bb/bbc_cbbc.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]CBeebies[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Citv[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8</link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/citv_uk.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Tiny Pop[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tiny_pop.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Cartoon Network[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.3.3:1234</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
