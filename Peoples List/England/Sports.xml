@@ -69,8 +69,8 @@
 </item>
 
 <item>
-<title>[COLOR red]Sky Sports 1[/COLOR]</title>
-<link>rtmpe://46.246.124.87:1935/liveedge playpath=sskys1 token= Fo5_n0w?U.rA6l3-70w47ch swfUrl=http://player.hdcast.org/_.swf pageUrl=http://player.hdcast.org</link>
+<title>[COLOR green]Sky Sports 1[/COLOR]</title>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
 <fanart></fanart>
 <info></info>
