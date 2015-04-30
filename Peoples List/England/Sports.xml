@@ -128,7 +128,7 @@
 <item>
 <title>[COLOR green]BT Sport 1 HD[/COLOR]</title>
 <link>rtmp://46.105.96.198:1935/send playpath=bt1hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_1_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -136,7 +136,7 @@
 <item>
 <title>[COLOR green]BT Sport 2 HD[/COLOR]</title>
 <link>rtmp://46.105.96.198:1935/send playpath=bt2hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
