@@ -78,7 +78,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports 2[/COLOR]</title>
-<link>rtmp://46.246.29.142:1935/stream/ playpath=IYo4NHFVNc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=q4u3x594z4u4e3t305h5n2b4t214w2o24444z2q2p2x2x2&adx=&stream=24749494c4n5t264n55444748484y2n2s495l4w2i3j3i38505l5t294x2q254s2t2r2w234r234x2u2q4u3x594z4u4e3t305u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2w2b4v2t2u2r2e4s2a4w243e5x2m5j564e48403k5b4w2k5z284946464h53384q2s2t2343434t2y3s2p2&sooor=MjI=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky2 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -86,7 +86,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports 3[/COLOR]</title>
-<link>rtmp://46.246.29.139:1935/stream/ playpath=gs5l5skuCm.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=k5k4b4t5a416f4o4p4r5n2b4t214w2o24444z2q2p2x2x2&adx=&stream=84x2m5n584m5z2t2949444l5x2b4x2n2m5z5z2g4t2q4j436p4v5t294x2q254s2t2r2w234r234x2u2k5k4b4t5a416f4o4p4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2w2b4v2t2u2r2e4s2a4w243e5x2m5j564e48403k5b4w2k5z284946464h53384q2s2t2343434t2y3s2p2&sooor=MTk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky3 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -94,8 +94,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports 4[/COLOR]</title>
-<link>rtmp://80.82.78.85:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=650&height=470
- token=#atd%#$ZH live=1</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky4 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -103,7 +102,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports 5[/COLOR]</title>
-<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
 <fanart></fanart>
 <info></info>
