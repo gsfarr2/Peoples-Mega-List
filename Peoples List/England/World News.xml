@@ -29,6 +29,13 @@
 </item>
 
 <item>
+<title>[COLOR green]BBC World News[/COLOR]</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR green]Euronews[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_uk.png</thumbnail>
@@ -38,35 +45,28 @@
 
 <item>
 <title>[COLOR green]Al Jazeera News[/COLOR]</title>
-<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8</link>
+<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8</link>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>[COLOR green]NHK World[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>[COLOR green]France 24 News[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
+<title>[COLOR green]Bloomberg[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
