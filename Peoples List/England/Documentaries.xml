@@ -26,35 +26,35 @@
 <item>
 <title>[COLOR green]Discovery Channel[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0059</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery World[/COLOR]                 [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0089</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery Theatre[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_theater_lam.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery Science[/COLOR]               [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0090</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery ID[/COLOR]                       [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0092</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -69,28 +69,28 @@
 <item>
 <title>[COLOR green]Nat Geo Wild[/COLOR]                         [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://tv4p.ru/03t/239.2.192.130.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Animal Planet[/COLOR]</title>
 <link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Investigation Discovery[/COLOR]           [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_xtra.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]RT Documentary HD[/COLOR]</title>
 <link>http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rt_documentary_ru.png</thumbnail>
 <fanart></fanart>
 </item>
 
