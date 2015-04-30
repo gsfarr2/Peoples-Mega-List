@@ -133,7 +133,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 <item>
 <title>[COLOR green]TV3 (Ireland)[/COLOR]</title>
 <link>http://212.250.46.35:4252/bysid/9605</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv3_ie.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -141,7 +141,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 <item>
 <title>[COLOR green]3[/COLOR]</title>
 <link>http://212.250.46.35:4252/bysid/9605</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/3e_ie.png</thumbnail>
 <fanart> </fanart>
 </item>
 
@@ -180,10 +180,18 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 <item>
 <title>[COLOR green]ITV Be[/COLOR]</title>
 <link>http://78.129.175.72/live/itvbe/itvbe.m3u8</link>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20140703182735/logopedia/images/3/3f/ITV_Be.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item> 
+
+<item>
+<title>[COLOR green]ITV Choice[/COLOR]</title>
+<title>http://185.27.237.105:8082/TV0055</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_choice.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR green]E4[/COLOR]</title>
@@ -211,9 +219,17 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 
 <item>
-<title>[COLOR green]5Star[/COLOR]</title>
+<title>[COLOR green]5 Star[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_star_uk.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]5 USA[/COLOR]</title>
+<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -226,13 +242,6 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 <info></info>
 </item>
 
-<item>
-<title>[COLOR red]Quest[/COLOR]</title>
-<link>http://live307.edge.filmon.com/live/2707.low.stream/media_w281518074_141141.ts?id=0ad5aac39bb13fbe6b02269d724c467e15701c895cdd2968a71df18c3160e9a19ac1146bbe0012472753b878712400956bdb74df9cb079f689a47a9889700d5586fd3ad61d77da80ce91646a2a7e7d9bf43695ad939d65dec32a55f33e6bc863cfb91ebae389bf48bdf6faa35680d08912ff23323f59da920b2b28620907ae0ace9d5cc1ebe136206835e3938152087a8d3ced26139dc2eb</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/qq/quest_uk.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
 
 <item>
 <title></title>
