@@ -25,21 +25,21 @@
 
 <item>
 <title>[COLOR green]Discovery Channel[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://185.27.237.105:8082/TV0059</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery World[/COLOR]                 [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://185.27.237.105:8082/TV0089</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
+<link>http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery Theatre[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?</link>
+<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_theater_lam.png</thumbnail>
 <fanart></fanart>
 </item>
