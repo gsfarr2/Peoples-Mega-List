@@ -16,7 +16,7 @@
 <channels>
 
 <channel>
-    <name>[COLOR white]Live Tv [/COLOR]</name>
+    <name>[COLOR white]Entertainment[/COLOR]</name>
 <thumbnail>http://www.dragoneg.com/plugin.video.livetv/icon.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Kybo/Peoples-Mega-List/master/Peoples%20List/USA/Live%20Tv.xml</externallink>
@@ -27,7 +27,7 @@
 <channels>
 
 <channel>
-    <name>[COLOR white]Cartoons [/COLOR]</name>
+    <name>[COLOR white]Kids[/COLOR]</name>
 <thumbnail>http://www.angelfire.com/music5/thecartoons/images/Cartoons_-_Logo.gif</thumbnail>   
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Kybo/Peoples-Mega-List/master/Peoples%20List/USA/Cartoons.xml</externallink>
@@ -60,7 +60,7 @@ channels>
 channels>
 
 <channel>
-    <name>[COLOR white]World News [/COLOR]</name>
+    <name>[COLOR white]News [/COLOR]</name>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/news_world_tv_in.png</thumbnail>    
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Kybo/Peoples-Mega-List/master/Peoples%20List/USA/World%20News.xml</externallink>
