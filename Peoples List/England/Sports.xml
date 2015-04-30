@@ -19,11 +19,26 @@
 <title><COLOR aqua>***UK Sports***</COLOR></title>
 </item>
 
+<item>
+<title>[COLOR green]Sky Sports 1[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/st1/Sky1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 2[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/Sky2/Sky2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -38,7 +53,23 @@
 
 <item>
 <title>[COLOR green]Sky Sports 3[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/Sky3/Sky3/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 3[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky3 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 4[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/Sky4/Sky4/index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -54,8 +85,24 @@
 
 <item>
 <title>[COLOR green]Sky Sports 5[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/Sky5/Sky5/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports 5[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]Sky Sports F1[/COLOR]</title>
+<link>http://smarterlogix.ddns.net:8081/fi/f1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
