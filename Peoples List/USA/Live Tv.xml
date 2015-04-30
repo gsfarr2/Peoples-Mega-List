@@ -12,6 +12,13 @@
 </item>
 
 
+<item>
+<title>[COLOR aqua]PLEASE REPORT DEADLINKS ON THE ROBINHOOD FORUM[/COLOR]</title>
+<link>http://ignore.me</link>
+<thumbnail>http://robinhoodgroup-tv.info/community/styles/brivium/hydrogen/xenforo/logo4c.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 
@@ -33,15 +40,15 @@
 <item>
 <title>[COLOR green]AMC[/COLOR]</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us_hd.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]AMC NY[/COLOR] </title>
 <link>rtmpe://192.99.38.90:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us_hd.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -61,7 +68,7 @@
 <item>
 <title>[COLOR green]CW11[/COLOR]</title>
 <link>rtmp://178.18.31.59:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20120505162929/logopedia/images/thumb/0/0d/Wpix11082008_logo.jpg/175px-Wpix11082008_logo.webp</thumbnail>
+<thumbnail>http://www.4029tv.com/image/view/-/16195470/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/13lnnrhz/-/Ark-CW-logo.png</thumbnail>
 <fanart> </fanart>
 </item>
 
