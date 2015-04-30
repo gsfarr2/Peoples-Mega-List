@@ -21,54 +21,6 @@
 
 
 <item>
-<title>[COLOR red]Sky Sports 1 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ss1hd.stream swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]Sky Sports 2 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ss2hd.streamswfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]Sky Sports 3 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ss3hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]Sky Sports 4 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ss4hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]Sky Sports 5 HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ss5hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR red]Sky Sports News HD[/COLOR]</title>
-<link>rtmp://46.105.96.198:1935/send playpath=ssnewshd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_news_hq_hd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports1.png</thumbnail>
@@ -241,4 +193,61 @@
 <link>http://stream.ssh101.com/hls/ginganigga.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/supersport2.png</thumbnail>
 <fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]********DEAD LINKS********[/COLOR]</title>
+<link>http://ignore.me</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]Sky Sports 1 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ss1hd.stream swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 2 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ss2hd.streamswfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 3 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ss3hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 4 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ss4hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports 5 HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ss5hd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Sky Sports News HD[/COLOR]</title>
+<link>rtmp://46.105.96.198:1935/send playpath=ssnewshd.stream swfUrl=http://player.hdcast.org/_.swf  pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_news_hq_hd.png</thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
