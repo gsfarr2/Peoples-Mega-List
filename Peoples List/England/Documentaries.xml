@@ -24,7 +24,7 @@
 
 
 <item>
-<title>[COLOR green]Discovery Channel[/COLOR]               [COLOR yellow](foreign Subtitles)[/COLOR]</title>
+<title>[COLOR green]Discovery Channel[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0059</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Discovery Theatre[/COLOR]               [COLOR yellow](foreign Subtitles)[/COLOR]</title>
+<title>[COLOR green]Discovery Theatre[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Nat Geo Wild[/COLOR]                     [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<title>[COLOR green]Nat Geo Wild[/COLOR]                       [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
 <link>http://tv4p.ru/03t/239.2.192.130.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
