@@ -24,37 +24,37 @@
 
 
 <item>
-<title>[COLOR green]Discovery Channel[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=12762028&stream=viewer_480p&group=iphone</link>
+<title>[COLOR green]Discovery Channel[/COLOR]              [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<link>http://31.130.9.158:81/udp/238.1.2.29:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Discovery World[/COLOR]                 [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Discovery Theatre[/COLOR]              [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_theater_lam.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Discovery Science[/COLOR]               [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://185.27.237.105:8082/TV0090</link>
+<title>[COLOR green]Discovery Science[/COLOR]               [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<link>http://31.130.9.158:81/udp/238.1.2.28:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Discovery ID[/COLOR]                       [COLOR yellow](foreign Subtitles)[/COLOR]</title>
-<link>http://185.27.237.105:8082/TV0092</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
@@ -81,9 +81,9 @@
 </item>
 
 <item>
-<title>[COLOR green]Investigation Discovery[/COLOR]           [COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
-<link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_xtra.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
