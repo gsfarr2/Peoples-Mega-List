@@ -163,7 +163,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <title>[COLOR green]ITV3[/COLOR]</title>
-<<link>http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8</link>
+<link>http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv3.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -187,7 +187,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <title>[COLOR green]ITV Choice[/COLOR]</title>
-<title>http://185.27.237.105:8082/TV0055</title>
+<link>http://185.27.237.105:8082/TV0055</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_choice.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -235,6 +235,22 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item>
+<title>[COLOR green]E ! Entertainment[/COLOR]</title>
+<link>http://185.27.237.105:8082/TV0060</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR green]UNIVERSAL HD[/COLOR]</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR green]CBS Action[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail>
@@ -245,7 +261,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <title></title>
-<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
