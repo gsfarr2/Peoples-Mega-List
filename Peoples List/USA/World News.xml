@@ -65,16 +65,16 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]ABC News[/COLOR]</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abc_news_al.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR green]FOX NEWS BOSTON[/COLOR]</title>
+<link>rtmp://whdh.mpl.miisolutions.net:1935/whdh-live01 playpath=mp4:whdh_1 swfUrl=http://www.whdh.com/ pageUrl=http://players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png</thumbnail>
 <fanart></fanart>
 </item>
 
