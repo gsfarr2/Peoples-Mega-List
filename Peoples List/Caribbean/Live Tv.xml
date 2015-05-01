@@ -18,7 +18,7 @@
 <name>tok</name>
 <expres>token":"([^"]*)</expres>
 <page>$doregex[tokpg]</page>
-<referer>http://www.opencast.me</referer>
+<referer>http://ezstreams.net/file.php?id=1430512163</referer>
 </regex>
 <regex>
 <name>tokpg</name>
