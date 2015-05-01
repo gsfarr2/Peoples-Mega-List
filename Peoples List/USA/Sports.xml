@@ -22,21 +22,21 @@
 
 
 <item>
-<title>[COLOR green]NBA TV[/COLOR]</title>
+<title>[COLOR red]NBA TV[/COLOR]</title>
 <link>http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nba_tv_ca.png</thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title>[COLOR green]NBC Sports Network 1080p[/COLOR]</title>
+<title>[COLOR red]NBC Sports Network 1080p[/COLOR]</title>
 <link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network_hd.png</thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title>[COLOR green]NBC Golf[/COLOR]</title>
+<title>[COLOR red]NBC Golf[/COLOR]</title>
 <link>rtmp://41.242.151.2:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network_alternate.png</thumbnail>
 <fanart> </fanart>
@@ -85,7 +85,7 @@ http://imveoh.info/prueba.php?n=http://server01.kenhhd.tv/movie01/edc4c52ad832c8
 </item>
 
 <item>
-<title>[COLOR green]Sportsnet 360 HD[/COLOR]</title>
+<title>[COLOR green]Sportsnet 360 [/COLOR]</title>
 <link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sportsnet_hd.png</thumbnail>
 <fanart> </fanart>
@@ -99,7 +99,7 @@ http://imveoh.info/prueba.php?n=http://server01.kenhhd.tv/movie01/edc4c52ad832c8
 </item>
 
 <item>
-<title>[COLOR green]Premier Sports[/COLOR]</title>
+<title>[COLOR red]Premier Sports[/COLOR]</title>
 <link>rtmp://31.220.0.195:80/live playpath=premiersport swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png</thumbnail>
 <fanart> </fanart>
