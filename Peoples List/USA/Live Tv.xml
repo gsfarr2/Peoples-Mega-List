@@ -24,8 +24,8 @@
 
 
 <item>
-<title>[COLOR green]A&E[/COLOR] </title>
-<link>http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480 </link>
+<title>[COLOR green]A&E Europe[/COLOR] </title>
+<link>http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ae_east.png </thumbnail>
 <fanart> </fanart>
 </item>
@@ -38,16 +38,16 @@
 </item>
 
 <item>
-<title>[COLOR green]AMC[/COLOR]</title>
-<link>rtmp://178.18.31.59:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us_hd.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]AMC NY[/COLOR] </title>
-<link>rtmpe://192.99.38.90:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us_hd.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
@@ -80,9 +80,9 @@
 </item>
 
 <item>
-<title>[COLOR green]Showtime[/COLOR]</title>
-<link>http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/showtime_west.png</thumbnail>
+<title>[COLOR green]HBO Family[/COLOR]</title>
+<link>rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_family.png</thumbnail>
 <fanart> </fanart>
 </item>
 
@@ -128,12 +128,7 @@
 <fanart> </fanart>
 </item>
 
-<item>
-<title>[COLOR red]Spike[/COLOR]</title>
-<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png</thumbnail>
-<fanart> </fanart>
-</item>
+
 
 <item>
 <title>[COLOR green]TBS[/COLOR]</title>
