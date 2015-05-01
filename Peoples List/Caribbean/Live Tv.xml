@@ -11,7 +11,22 @@
 <title><COLOR aqua>***world TV***</COLOR></title>
 </item>
 
-
+<item>
+<title>Regex Test 1</title>
+<link>rtmp://185.63.252.242/app/ playpath=stream1 token=$doregex[tok] swfUrl=http://www.opencast.me/player/player.swf pageUrl=http://www.opencast.me/embed.php?channel=stream1&vw=750&vh=480&domain=1tvsports.com</link>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>http://www.opencast.me</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.ibrodtv.net/ibrodtv1.html</page>
+</regex>
+<thumbnail>http://i.imgur.com/SbAbOZx.png</thumbnail>
+</item>
 
 
 
