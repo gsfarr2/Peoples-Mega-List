@@ -16,7 +16,7 @@
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=$doregex[token]</link>
 <regex>
 <name>token</name>
-<expres>secureToken,":"([^"]*)</expres>
+<expres>secureToken":"([^"]*)</expres>
 <page>http://player.hdcast.org/_.swf</page>
 <referer>http://www.hdcast.org/</referer>
 </regex>
