@@ -22,7 +22,7 @@
 
 -
 -<item>
--<title>Boxing_Mayweather_vs_Pacquiao_720p_HD</title>
+-<title>Boxing Mayweather vs Pacquiao 720p HD</title>
 -<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 -<regex>
 -<name>path</name>
@@ -69,8 +69,6 @@
 -<thumbnail>http://static.streamlive.to/images/mayweather-pacquiao-poster-official.png</thumbnail>
 -</item>
 -
-
-
 <item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>rtmp://80.82.78.15:443/liverepeater/ playpath=23 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH</link>
