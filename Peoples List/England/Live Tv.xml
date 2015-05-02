@@ -43,7 +43,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item>
-<title>[COLOR green]Channel Four[/COLOR]</title>
+<title>[COLOR green]Channel 4[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_uk.png</thumbnail>
 <fanart></fanart>
@@ -67,7 +67,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item>
-<title>[COLOR green]S4C  (Wales)[/COLOR]</title>
+<title>[COLOR green]S4C (Wales)[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png</thumbnail>
 <fanart></fanart>
@@ -99,7 +99,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item> 
-<title>[COLOR green]BBC Alba  (Scotland)[/COLOR]</title>
+<title>[COLOR green]BBC Alba (Scotland)[/COLOR]</title>
 <link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-audio_2%3D96000-video%3D1374000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_alba.png</thumbnail>
 <fanart></fanart>
