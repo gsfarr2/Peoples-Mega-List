@@ -16,16 +16,10 @@
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=$doregex[token]</link>
 <regex>
 <name>token</name>
-<expres>token":"([^"]*)</expres>
-<page>$doregex[tokpg]</page>
+<expres>secureToken,":"([^"]*)</expres>
+<page>http://player.hdcast.org/_.swf</page>
 <referer>http://www.hdcast.org/</referer>
 </regex>
-<regex>
-<name>tokpg</name>
-<expres>getJSON\("([^"]*)</expres>
-<page>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</page>
-</regex>
-
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
