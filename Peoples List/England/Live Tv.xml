@@ -178,7 +178,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item>
-<title>[COLOR green]ITV Be[/COLOR]</title>
+<title>[COLOR red]ITV Be[/COLOR]</title>
 <link>http://78.129.175.72/live/itvbe/itvbe.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png</thumbnail>
 <fanart></fanart>
@@ -186,7 +186,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item> 
 
 <item>
-<title>[COLOR green]ITV Choice[/COLOR]</title>
+<title>[COLOR red]ITV Choice[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0055</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_choice.png</thumbnail>
 <fanart></fanart>
@@ -235,7 +235,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 
 <item>
-<title>[COLOR green]E ! Entertainment[/COLOR]</title>
+<title>[COLOR red]E ! Entertainment[/COLOR]</title>
 <link>http://46.249.20.129:8080/udp/233.195.89.91:3000</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
 <fanart></fanart>
