@@ -179,15 +179,6 @@
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>[COLOR red]********DEAD LINKS********[/COLOR]</title>
-<link>http://ignore.me</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
 <item>
 <title>[COLOR red]Sky Sports 1 HD[/COLOR]</title>
 <link>rtmp://46.105.96.198:1935/send playpath=ss1hd.stream swfUrl=http://player.hdcast.org/_.swf pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
