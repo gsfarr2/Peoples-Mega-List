@@ -11,7 +11,25 @@
 <title><COLOR aqua>***world TV***</COLOR></title>
 </item>
 
+<item>
+<title>Sky Sports 1</title>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=doregex[path] swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=doregex[token]</link>
+<regex>
+<name>path</name>
+<page>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>token</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>http://www.hdcast.org/</referer>
+</regex>
 
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 
 -
