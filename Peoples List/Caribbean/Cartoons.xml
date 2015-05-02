@@ -13,7 +13,7 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmpe://46.246.124.93:1935/liveedge playpath=doregex[path] swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=doregex[token]</link>
+<link>rtmpe://46.246.124.93:1935/liveedge playpath=$doregex[path] swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=$doregex[token]</link>
 <regex>
 <name>path</name>
 <page>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</page>
@@ -25,12 +25,16 @@
 <page>$doregex[tokpg]</page>
 <referer>http://www.hdcast.org/</referer>
 </regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</page>
+</regex>
 
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
-
 
 -
 
