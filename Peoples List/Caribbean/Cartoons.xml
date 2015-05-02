@@ -12,9 +12,9 @@
 </item>
 
 <item>
-<title>Sky Sports 1</title>
+<title>Sky Sports 1*</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=$doregex[token]</link>
-
+<regex>
 <name>token</name>
 <expres>token":"([^"]*)</expres>
 <page>$doregex[tokpg]</page>
