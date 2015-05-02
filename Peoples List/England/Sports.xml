@@ -46,7 +46,7 @@
 <item>
 <title>[COLOR green]Sky Sports 4[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky4 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -54,7 +54,7 @@
 <item>
 <title>[COLOR green]Sky Sports 5[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -62,7 +62,7 @@
 <item>
 <title>[COLOR green]Sky Sports F1[/COLOR]</title>
 <link>rtmpe://46.246.124.93:1935/liveedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf pageUrl=pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
