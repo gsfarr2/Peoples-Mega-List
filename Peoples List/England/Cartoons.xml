@@ -47,9 +47,16 @@
 </item>
 
 <item>
-<title>[COLOR green]Cartoon Network[/COLOR][COLOR yellow](switch audio stream to english in audio settings when viewing)[/COLOR]</title>
+<title>[COLOR green]Cartoon Network[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.3.3:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]Nickelodeon EN[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.86:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
