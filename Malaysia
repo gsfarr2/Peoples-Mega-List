@@ -103,16 +103,16 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>TV1</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>TV2</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
