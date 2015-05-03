@@ -36,8 +36,22 @@
 </item>
 
 <item>
-<title>[COLOR red]NBC Golf[/COLOR]</title>
-<link>rtmp://41.242.151.2:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490</link>
+<title>[COLOR green]NBC Golf SD[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network_alternate.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]NBC Golf 720P[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network_alternate.png</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLOR green]NBC Golf 1080P[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network_alternate.png</thumbnail>
 <fanart> </fanart>
 </item>
@@ -106,25 +120,29 @@ http://imveoh.info/prueba.php?n=http://server01.kenhhd.tv/movie01/edc4c52ad832c8
 </item>
 
 <item>
+<title>[COLOR green]ESPN HD[/COLOR]</title>
+<link>rtmp://80.82.78.15:443/liverepeater/ playpath=34 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]Sports Night HD[/COLOR]</title>
+<link>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR red]***We do not proport to own any of these links***We do not proprort that we own any code***We would like to thank all the developers for the use of their code advertantly and inadvertantly please feel free to report any problems or questions to [/COLOR][COLOR aqua]Robin Hoood Forum,thank you[/COLOR]</title>
 <link>http://ignore.me</link>
 <thumbnail>http://robinhoodgroup-tv.info/community/styles/brivium/hydrogen/xenforo/logo4c.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
+
 
 <item>
 <title></title>
