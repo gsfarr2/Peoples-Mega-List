@@ -67,12 +67,7 @@
 -<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_europe.png</thumbnail>
 -</item>
 -
-<item>
-<title>[COLOR green]History HD[/COLOR]                          [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://62.205.157.29:4022/udp/239.0.0.69:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_asia_hd.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR green]Discovery Channel[/COLOR]                   [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
