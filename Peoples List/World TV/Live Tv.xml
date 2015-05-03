@@ -21,19 +21,25 @@
 <info></info>
 </item>
 
+<item>
+<title>[COLOR green]Valletta web cam[/COLOR][COLOR yellow](Malta)[/COLOR]</title>
+<link>rtmp://video4.earthcam.com:1935/fecnetwork playpath=5245.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/malta/valletta/?cam=malta live=1</link>
+<thumbnail> </thumbnail>
+<fanart>https://www.skatelescope.org/wp-content/uploads/2015/04/Fotolia_8247791_MALTA_FLAG1.jpg</fanart>
+</item>
 
 <item>
-<title>[COLOR green]Net Tv[/COLOR][COLOR yellow](Malta)[/COLOR]</title>
+<title>[COLOR red]Net Tv[/COLOR][COLOR yellow](Malta)[/COLOR]</title>
 <link>rtmp://stream.vanilla.net.mt/live/ playpath=net3 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=%Zrey(nKa@#Z pageUrl=http://streema.com/tv/Net_TV</link>
 <thumbnail> </thumbnail>
-<fanart> </fanart>
+<fanart>https://www.skatelescope.org/wp-content/uploads/2015/04/Fotolia_8247791_MALTA_FLAG1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR green]F Living[/COLOR][COLOR yellow](Malta)[/COLOR]</title>
 <link>rtmp://srv-104.skylinewebcams.com/live playpath=live swfUrl=http://srv-104.skylinewebcams.com/player/player.swf pageUrl=http://srv-104.skylinewebcams.com/live.php</link>
 <thumbnail> </thumbnail>
-<fanart> </fanart>
+<fanart>https://www.skatelescope.org/wp-content/uploads/2015/04/Fotolia_8247791_MALTA_FLAG1.jpg</fanart>
 </item>
 
 <item>
@@ -127,12 +133,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title> </title>
-<link> </link>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-</item>
+
 
 <item>
 <title> </title>
