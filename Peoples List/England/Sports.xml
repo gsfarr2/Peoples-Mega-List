@@ -175,6 +175,17 @@
 <info></info>
 </item>
 
+
+
+<item>
+<title>[COLOR green]Mayweather Fight (ALT4)[/COLOR]</title>
+<link>rtmp://jessica.dumburk.org/live/ playpath=f1480?passphrase=ga59ZWKTmFpp swfUrl=http://d41d8cd98f00b204e9800998ecf8427e.dumburk.org/jwplayer.flash.swf pageUrl=http://d41d8cd98f00b204e9800998ecf8427e.dumburk.org/</link>
+<thumbnail>http://static.streamlive.to/images/mayweather-pacquiao-poster-official.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
 <item>
 <title>[COLOR green]Sky Sports 1[/COLOR]</title>
 <link>rtmp://80.82.78.15:443/liverepeater/ playpath=23 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH</link>
