@@ -325,14 +325,14 @@ rtmp://80.82.78.15:443/liverepeater/ playpath=15 token=#atd%#$ZH pageUrl=http://
 <item>
 <title>[COLOR green]Random Sport 1[/COLOR]</title>
 <link>http://stream.ssh101.com/hls/newdaysucks.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_1_tv.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Random Sport 2[/COLOR]</title>
 <link>http://stream.ssh101.com/hls/thenewday.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/supersport2.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
