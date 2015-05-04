@@ -168,6 +168,14 @@ rtmp://80.82.78.15:443/liverepeater/ playpath=15 token=#atd%#$ZH pageUrl=http://
 </item>
 
 <item>
+<title>[COLOR green]VIA SAT Sport [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.179:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_no.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR green]Random Sport 1[/COLOR]</title>
 <link>http://stream.ssh101.com/hls/newdaysucks.m3u8</link>
 <thumbnail>http://www.saint-avertin-sports.com/images/ballon_de_foot.jpg</thumbnail>
@@ -245,13 +253,7 @@ rtmp://80.82.78.15:443/liverepeater/ playpath=15 token=#atd%#$ZH pageUrl=http://
 <info></info>
 </item>
 
-<item>
-<title>[COLOR green]VIA SAT Sport [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.179:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_no.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+
 
 <item>
 <title></title>
