@@ -19,30 +19,6 @@
 
 
 <item>
-<title>Canal 2!!</title>
-<link>rtmp://93.174.93.230/iguide  playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=30842&autoplay=true</link>
-<regex>
-<name>path</name>
-<page>http://kozreload.biz/canal2.html</page>
-<expres>file: "(.*).flv</expres>
-</regex>
-<regex>
-<name>tok</name>
-<expres>token":"([^"]*)</expres>
-<page>$doregex[tokpg]</page>
-<referer>http://kozreload.biz/canal2.html</referer>
-</regex>
-<regex>
-<name>tokpg</name>
-<expres>getJSON\("([^"]*)</expres>
-<page>http://kozreload.biz/canal2.html</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
 <title> </title>
 <link> </link>
 <thumbnail> </thumbnail>
