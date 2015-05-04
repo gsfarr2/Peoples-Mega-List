@@ -18,12 +18,7 @@
 <title><COLOR aqua>***UK Documentaries***</COLOR></title>
 </item>
 
-<item>
-<title>[COLOR green]History HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.246:4000</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_hd.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 -<title>[COLOR green]History Europe[/COLOR]</title>
