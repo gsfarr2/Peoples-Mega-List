@@ -70,14 +70,14 @@
 
 
 <item>
-<title>[COLOR green]Discovery Channel[/COLOR]                   [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://31.130.9.158:81/udp/238.1.2.29:1234</link>
+<title>[COLOR green]Discovery Channel HD[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.119:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
 
 -<item>
--<title>[COLOR green]Discovery Channel USA[/COLOR]</title>
+-<title>[COLOR green]Discovery Channel USA [/COLOR]</title>
 -<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 -<regex>
 -<name>path</name>
@@ -125,16 +125,23 @@
 -</item>
 -
 <item>
-<title>[COLOR green]Discovery Science[/COLOR]                   [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://31.130.9.158:81/udp/238.1.2.28:1234</link>
+<title>[COLOR green]Discovery World [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.47:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]Discovery Science [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.48:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Investigation Discovery[/COLOR]             [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR green]Investigation Discovery [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://37.193.0.15:81/udp/239.1.2.8:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -195,8 +202,8 @@
 </item>
 
 <item>
-<title>[COLOR green]National Geographic HD[/COLOR]              [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title> 
-<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
+<title>[COLOR green]National Geographic HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title> 
+<link>http://78.30.254.43:8989/udp/239.0.0.35:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
 <fanart>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</fanart>
 <info></info>
@@ -251,9 +258,16 @@
 -</item>
 -
 <item>
-<title>[COLOR green]Nat Geo Wild[/COLOR]                        [COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://tv4p.ru/03t/239.2.192.130.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
+<title>[COLOR green]Nat Geo Wild HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.168:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]Animal Planet HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.129:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -263,6 +277,28 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR green]VIA SAT History [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.197:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_history_africa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]VIA SAT Nature [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.154:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature_east.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]VIA SAT Explore [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.155:4000?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explore.png</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLOR green]RT Documentary HD[/COLOR]</title>
@@ -278,40 +314,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title></title>
