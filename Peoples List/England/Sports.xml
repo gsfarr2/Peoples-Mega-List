@@ -253,12 +253,7 @@
 
 <item>
 <title>SKY SPORTS 3</title>
-<link>$doregex[rtmp] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
-<regex>
-<name>rtmp</name>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<expres>streamer: ([^"]*)</expres>
-</regex>
+<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <name>path</name>
 <page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
