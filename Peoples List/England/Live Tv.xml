@@ -16,11 +16,11 @@
 <item>
 <title><COLOR aqua>***world TV***</COLOR></title>
 </item>
-http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+
 
 <item>
 <title>[COLOR green]BBC One[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8</link>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -28,7 +28,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <title>[COLOR green]BBC Two[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8</link>
+<link>http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -36,7 +36,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <title>[COLOR green]ITV[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8</link>
+<link>http://82.135.224.134:80/udp/239.100.3.6:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -84,7 +84,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 </item>
 <item>
 <link>[COLOR green]BBC Three[/COLOR]</title>
-<title>http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8</link>
+<title>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_three.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -92,7 +92,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
 <item>
 <link>[COLOR green]BBC Four[/COLOR]</title>
-<title>http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8</link>
+<title>http://vs-hds-uk-live.edgesuite.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_four_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
