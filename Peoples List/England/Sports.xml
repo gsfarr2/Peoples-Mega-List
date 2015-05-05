@@ -252,12 +252,14 @@
 </item>
 
 <item>
-<title>SKY SPORTS 3</title>
-<link>rtmp://$doregex[get-ip]/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<title>SKY SPORTS 3!</title>
+<link>$doregex[rtmp]/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
-<name>get-ip</name>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<expres>re.findall(r'\b25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\b',s)</expres>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^']*)<expres>
+<page>hhttp://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
+<referer>https://www.streamlive.to</referer>
 </regex>
 <regex>
 <name>path</name>
@@ -303,7 +305,6 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-
 
 <item>
 <title></title>
