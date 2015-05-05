@@ -62,7 +62,7 @@
 
 <item>
 <title>[COLOR green]Sky Sports F1[/COLOR]</title>
-<link>rtmp://80.82.78.15:443/liverepeater/ playpath=35 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH</link>
+<link>rtmpe://46.246.124.3:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf pageurl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1_hd.png</thumbnail>
 <fanart></fanart>
 <info></info>
