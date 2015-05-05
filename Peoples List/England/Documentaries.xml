@@ -78,7 +78,7 @@
 
 <item>
 <title>[COLOR green]Discovery Channel [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://31.130.9.158:81/udp/238.1.2.29:1234 audio-track=1</link>
+<link>http://31.130.9.158:81/udp/238.1.2.29:1234 audio-track=2</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
