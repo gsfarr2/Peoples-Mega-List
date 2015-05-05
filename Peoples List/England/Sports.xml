@@ -252,8 +252,8 @@
 </item>
 
 <item>
-<title>SKY SPORTS 3!</title>
-<link>$doregex[rtmp]/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<title>SKY SPORTS 3</title>
+<link>$doregex[rtmp] app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <regex>
 <name>rtmp</name>
