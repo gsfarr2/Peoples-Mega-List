@@ -22,7 +22,7 @@
 
 <item>
 -<title>[COLOR green]History Europe[/COLOR]</title>
--<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+-<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 -<regex>
 -<name>path</name>
 -<page>http://www.streamlive.to/view/70633/History_Channel_Europe-live-stream-channel</page>
@@ -155,7 +155,7 @@
 -
 -<item>
 -<title>[COLOR green]ID Investigation Discovery Europe[/COLOR]</title>
--<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+-<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 -<regex>
 -<name>path</name>
 -<page>http://www.streamlive.to/view/70632/ID_Investigation_Discovery-_Europe-live-stream-channel</page>
@@ -218,7 +218,7 @@
 -
 -<item>
 -<title>[COLOR green]National Geographic Europe[/COLOR]</title>
--<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+-<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 -<regex>
 -<name>path</name>
 -<page>http://www.streamlive.to/view/70629/National_Geographic-live-stream-channel</page>
