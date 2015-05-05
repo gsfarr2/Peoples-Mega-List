@@ -68,7 +68,12 @@
 -<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_europe.png</thumbnail>
 -</item>
 -
-
+<item>
+<title>[COLOR green]H2[/COLOR]</title>
+<link>http://31.220.41.111:80/LiveEdge/H2US/playlist.m3u8?token= timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_2_uk.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR green]Discovery Channel [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
