@@ -99,16 +99,11 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR green]Bravo[/COLOR]</title>
-<link>rtmpe://192.99.38.90:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bravo_us.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR green]Comedy Central[/COLOR]</title>
-<link>rtmp://178.18.31.59:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH</link>
+<link>http://188.138.9.228:8022/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us.png</thumbnail>
 <fanart> </fanart>
 </item>
@@ -127,12 +122,7 @@
 <fanart> </fanart>
 </item>
 
-<item>
-<title>[COLOR green]HBO Family[/COLOR]</title>
-<link>rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_family.png</thumbnail>
-<fanart> </fanart>
-</item>
+
 
 <item>
 <title>[COLOR green]TNT[/COLOR]</title>
@@ -180,7 +170,7 @@
 
 <item>
 <title>[COLOR green]TBS[/COLOR]</title>
-<link>rtmp://rtmp.zerocast.tv/goLive/RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://zerocast.tv/embed token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://192.99.44.196:1935/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png</thumbnail>
 <fanart> </fanart>
 </item>
