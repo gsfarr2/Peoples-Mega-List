@@ -257,7 +257,7 @@
 <regex>
 <name>get-ip</name>
 <page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<expres>ip\b(?:\d{1,3}\.){3}\d{1,3}\b</expres>
+<expres>re.findall(r'\b25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\.25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?\b',s)</expres>
 </regex>
 <regex>
 <name>path</name>
@@ -303,13 +303,7 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+
 
 <item>
 <title></title>
