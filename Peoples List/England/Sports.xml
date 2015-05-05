@@ -252,7 +252,7 @@
 </item>
 
 <item>
-<title>SKY SPORTS 3!</title>
+<title>SKY SPORTS 3</title>
 <link>rtmp://$doregex[get-ip]/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <name>get-ip</name>
