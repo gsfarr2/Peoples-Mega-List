@@ -16,6 +16,15 @@
 <channels>
 
 <channel>
+    <name>[COLOR gold]Entertainment [/COLOR]</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Peoples-Mega-List/master/Peoples%20List/England/Live%20Football.xml</externallink>
+<fanart></fanart>
+</channel>
+</channels>
+
+<channel>
     <name>[COLOR white]Entertainment [/COLOR]</name>
 <thumbnail>http://www.dragoneg.com/plugin.video.livetv/icon.png</thumbnail>
 <link>http://ignoreme</link>
