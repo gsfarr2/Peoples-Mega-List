@@ -309,6 +309,54 @@
 </item>
 
 <item>
+<title>[COLOR green]Sky Atlantic[/COLOR]</title>
+<link>rtmp://watch4.streamlive.to/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/70631/Sky_Atlantic_%5BHD%5D-live-stream-channel</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>https://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/70631/Sky_Atlantic_%5BHD%5D-live-stream-channel</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/70631/Sky_Atlantic_%5BHD%5D-live-stream-channel</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>https://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache/>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page></page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/70631/Sky_Atlantic_%5BHD%5D-live-stream-channel</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR red]***We do not proport to own any of these links***We do not proprort that we own any code***We would like to thank all the developers for the use of their code advertantly and inadvertantly please feel free to report any problems or questions to [/COLOR][COLOR aqua]Robin Hoood Forum,thank you[/COLOR]</title>
 <link>http://ignore.me</link>
 <thumbnail>http://robinhoodgroup-tv.info/community/styles/brivium/hydrogen/xenforo/logo4c.png</thumbnail>
