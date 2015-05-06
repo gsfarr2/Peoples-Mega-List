@@ -252,51 +252,13 @@
 </item>
 
 <item>
-<title>SKY SPORTS 3</title>
-<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<title>BT Sport 1 Test</title>
+<link>$doregex[getIlive]</link>
 <regex>
-<name>path</name>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<expres>file: "(.*).flv</expres>
-</regex>
-<regex>
-<name>tok</name>
-<expres>token":"([^"]*)</expres>
-<page>$doregex[tokpg]</page>
-<referer>https://www.streamlive.to</referer>
-</regex>
-<regex>
-<name>tokpg</name>
-<expres>getJSON\("([^"]*)</expres>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-</regex>
-<regex>
-<name>xs</name>
-<expres>/(\?xs=.*?)"</expres>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<rawpost>captcha=$doregex[answer]</rawpost>
-<referer>https://www.streamlive.to</referer>
-<cookieJar></cookieJar>
-<ignorecache/>
-</regex>
-<regex>
-<name>answer</name>
-<expres>$pyFunction:($doregex[captcha])</expres>
+<name>getIlive</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/view/30429/watch-live-CLICK 10-channel-for-free',False,False)</expres>
 <page></page>
 </regex>
-<regex>
-<name>captcha</name>
-<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xcaptcha</name>
-<expres>Question: (.*) =</expres>
-<page>http://www.streamlive.to/view/68714/Sky_Sport_3_%28HD%29-live-stream-channel</page>
-<referer>http://www.streamlive.to</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
 </item>
 
 <item>
