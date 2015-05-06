@@ -23,9 +23,9 @@
 
 -
 <item>
-<title>[COLOR green]H2[/COLOR]</title>
-<link>http://31.220.41.111:80/LiveEdge/H2US/playlist.m3u8?token= timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_2_uk.png</thumbnail>
+<title>[COLOR green]Discovery Theatre[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_theater_lam.png</thumbnail>
 <fanart></fanart>
 </item>
 
