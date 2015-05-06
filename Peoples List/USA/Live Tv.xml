@@ -30,53 +30,11 @@
 <fanart> </fanart>
 </item>
 -
--<item>
--<title>[COLOR green]AMC[/COLOR]</title>
--<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
--<regex>
--<name>path</name>
--<page>http://www.streamlive.to/view/68963/AMC-live-stream-channel</page>
--<expres>file: "(.*).flv</expres>
--</regex>
--<regex>
--<name>tok</name>
--<expres>token":"([^"]*)</expres>
--<page>$doregex[tokpg]</page>
--<referer>https://www.streamlive.to</referer>
--</regex>
--<regex>
--<name>tokpg</name>
--<expres>getJSON\("([^"]*)</expres>
--<page>http://www.streamlive.to/view/68963/AMC-live-stream-channel</page>
--</regex>
--<regex>
--<name>xs</name>
--<expres>/(\?xs=.*?)"</expres>
--<page>http://www.streamlive.to/view/68963/AMC-live-stream-channel</page>
--<rawpost>captcha=$doregex[answer]</rawpost>
--<referer>https://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--<ignorecache/>
--</regex>
--<regex>
--<name>answer</name>
--<expres>$pyFunction:($doregex[captcha])</expres>
--<page></page>
--</regex>
--<regex>
--<name>captcha</name>
--<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
--<page></page>
--</regex>
--<regex>
--<name>xcaptcha</name>
--<expres>Question: (.*) =</expres>
--<page>http://www.streamlive.to/view/68963/AMC-live-stream-channel</page>
--<referer>http://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--</regex>
--<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us.png</thumbnail>
--</item>
+<title>[COLOR green]AMC Europe[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://31.130.9.158:81/udp/238.1.2.44:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/amc_us.png</thumbnail>
+<fanart> </fanart>
+</item>
 -
 <item>
 <title>[COLOR green]ABC Family[/COLOR]</title>
