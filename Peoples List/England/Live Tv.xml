@@ -44,7 +44,7 @@
 
 <item>
 <title>[COLOR green]Channel 4[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8</link>
+<link>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -52,22 +52,22 @@
 
 <item>
 <title>[COLOR green]Channel 5[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8</link>
+<link>http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_uk.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>[COLOR green]Channel 5 +24[/COLOR]</title>
-<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8</link>
+<title>[COLOR red]Channel 5 +24[/COLOR]</title>
+<link>http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_uk_plus24.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>[COLOR green]S4C (Wales)[/COLOR]</title>
+<title>[COLOR red]S4C (Wales)[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png</thumbnail>
 <fanart></fanart>
@@ -154,7 +154,7 @@
 </item>
 
 <item>
-<title>[COLOR green]ITV2[/COLOR]</title>
+<title>[COLOR red]ITV2[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv2.png</thumbnail>
 <fanart></fanart>
@@ -162,7 +162,7 @@
 </item>
 
 <item>
-<title>[COLOR green]ITV3[/COLOR]</title>
+<title>[COLOR red]ITV3[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv3.png</thumbnail>
 <fanart></fanart>
@@ -170,7 +170,7 @@
 </item>
 
 <item>
-<title>[COLOR green]ITV4[/COLOR]</title>
+<title>[COLOR red]ITV4[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv4.png</thumbnail>
 <fanart></fanart>
@@ -186,7 +186,7 @@
 </item> 
 
 <item>
-<title>[COLOR red]ITV Choice[/COLOR]</title>
+<title>[COLOR green]ITV Choice[/COLOR]</title>
 <link>http://185.27.237.105:8082/TV0055</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_choice.png</thumbnail>
 <fanart></fanart>
@@ -194,7 +194,7 @@
 </item>
 
 <item>
-<title>[COLOR green]E4[/COLOR]</title>
+<title>[COLOR red]E4[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e4_uk.png</thumbnail>
 <fanart></fanart>
@@ -202,7 +202,7 @@
 </item>
 
 <item>
-<title>[COLOR green]More 4[/COLOR]</title>
+<title>[COLOR red]More 4[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_more4_uk.png</thumbnail>
 <fanart></fanart>
@@ -210,7 +210,7 @@
 </item>
 
 <item>
-<title>[COLOR green]4 Seven[/COLOR]</title>
+<title>[COLOR red]4 Seven[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel4_seven_uk.png</thumbnail>
 <fanart></fanart>
@@ -219,7 +219,7 @@
 
 
 <item>
-<title>[COLOR green]5 Star[/COLOR]</title>
+<title>[COLOR red]5 Star[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_star_uk.png</thumbnail>
 <fanart></fanart>
@@ -227,7 +227,7 @@
 </item>
 
 <item>
-<title>[COLOR green]5 USA[/COLOR]</title>
+<title>[COLOR red]5 USA[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel5_usa.png</thumbnail>
 <fanart></fanart>
@@ -301,7 +301,7 @@
 </item>
 
 <item>
-<title>[COLOR green]CBS Action[/COLOR]</title>
+<title>[COLOR red]CBS Action[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail>
 <fanart></fanart>
