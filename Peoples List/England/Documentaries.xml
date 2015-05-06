@@ -20,53 +20,7 @@
 
 
 
-<item>
--<title>[COLOR green]History Europe[/COLOR]</title>
--<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
--<regex>
--<name>path</name>
--<page>http://www.streamlive.to/view/70633/History_Channel_Europe-live-stream-channel</page>
--<expres>file: "(.*).flv</expres>
--</regex>
--<regex>
--<name>tok</name>
--<expres>token":"([^"]*)</expres>
--<page>$doregex[tokpg]</page>
--<referer>https://www.streamlive.to</referer>
--</regex>
--<regex>
--<name>tokpg</name>
--<expres>getJSON\("([^"]*)</expres>
--<page>http://www.streamlive.to/view/70633/History_Channel_Europe-live-stream-channel</page>
--</regex>
--<regex>
--<name>xs</name>
--<expres>/(\?xs=.*?)"</expres>
--<page>http://www.streamlive.to/view/70633/History_Channel_Europe-live-stream-channel</page>
--<rawpost>captcha=$doregex[answer]</rawpost>
--<referer>https://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--<ignorecache/>
--</regex>
--<regex>
--<name>answer</name>
--<expres>$pyFunction:($doregex[captcha])</expres>
--<page></page>
--</regex>
--<regex>
--<name>captcha</name>
--<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
--<page></page>
--</regex>
--<regex>
--<name>xcaptcha</name>
--<expres>Question: (.*) =</expres>
--<page>http://www.streamlive.to/view/70633/History_Channel_Europe-live-stream-channel</page>
--<referer>http://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--</regex>
--<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_europe.png</thumbnail>
--</item>
+
 -
 <item>
 <title>[COLOR green]H2[/COLOR]</title>
@@ -78,69 +32,22 @@
 
 <item>
 <title>[COLOR green]Discovery Channel [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://31.130.9.158:81/udp/238.1.2.29:1234 audio-track=2</link>
+<link>http://3.hls.bolshoe.tv/1/streaming/discovery/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
 </item>
 
--<item>-<item>
--<title>[COLOR green]Discovery Channel USA [/COLOR]</title>
--<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
--<regex>
--<name>path</name>
--<page>http://www.streamlive.to/view/69110/Discovery-live-stream-channel</page>
--<expres>file: "(.*).flv</expres>
--</regex>
--<regex>
--<name>tok</name>
--<expres>token":"([^"]*)</expres>
--<page>$doregex[tokpg]</page>
--<referer>https://www.streamlive.to</referer>
--</regex>
--<regex>
--<name>tokpg</name>
--<expres>getJSON\("([^"]*)</expres>
--<page>http://www.streamlive.to/view/69110/Discovery-live-stream-channel</page>
--</regex>
--<regex>
--<name>xs</name>
--<expres>/(\?xs=.*?)"</expres>
--<page>http://www.streamlive.to/view/69110/Discovery-live-stream-channel</page>
--<rawpost>captcha=$doregex[answer]</rawpost>
--<referer>https://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--<ignorecache/>
--</regex>
--<regex>
--<name>answer</name>
--<expres>$pyFunction:($doregex[captcha])</expres>
--<page></page>
--</regex>
--<regex>
--<name>captcha</name>
--<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
--<page></page>
--</regex>
--<regex>
--<name>xcaptcha</name>
--<expres>Question: (.*) =</expres>
--<page>http://www.streamlive.to/view/69110/Discovery-live-stream-channel</page>
--<referer>http://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--</regex>
--<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png</thumbnail>
--</item>
--
+
 <item>
 <title>[COLOR green]Discovery World [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.47:4000?</link>
+<link>http://3.hls.bolshoe.tv/2/streaming/discovery_world/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR green]Discovery Science [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.48:4000?</link>
+<link>http://3.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -152,129 +59,17 @@
 <fanart></fanart>
 </item>
 
--
--<item>
--<title>[COLOR green]ID Investigation Discovery Europe[/COLOR]</title>
--<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
--<regex>
--<name>path</name>
--<page>http://www.streamlive.to/view/70632/ID_Investigation_Discovery-_Europe-live-stream-channel</page>
--<expres>file: "(.*).flv</expres>
--</regex>
--<regex>
--<name>tok</name>
--<expres>token":"([^"]*)</expres>
--<page>$doregex[tokpg]</page>
--<referer>https://www.streamlive.to</referer>
--</regex>
--<regex>
--<name>tokpg</name>
--<expres>getJSON\("([^"]*)</expres>
--<page>http://www.streamlive.to/view/70632/ID_Investigation_Discovery-_Europe-live-stream-channel</page>
--</regex>
--<regex>
--<name>xs</name>
--<expres>/(\?xs=.*?)"</expres>
--<page>http://www.streamlive.to/view/70632/ID_Investigation_Discovery-_Europe-live-stream-channel</page>
--<rawpost>captcha=$doregex[answer]</rawpost>
--<referer>https://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--<ignorecache/>
--</regex>
--<regex>
--<name>answer</name>
--<expres>$pyFunction:($doregex[captcha])</expres>
--<page></page>
--</regex>
--<regex>
--<name>captcha</name>
--<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
--<page></page>
--</regex>
--<regex>
--<name>xcaptcha</name>
--<expres>Question: (.*) =</expres>
--<page>http://www.streamlive.to/view/70632/ID_Investigation_Discovery-_Europe-live-stream-channel</page>
--<referer>http://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--</regex>
--<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png</thumbnail>
--</item>
--
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR green]National Geographic HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title> 
-<link>http://78.30.254.43:8989/udp/239.0.0.35:4000?</link>
+<title>[COLOR green]National Geographic[/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
-<fanart>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</fanart>
-<info></info>
-</item>
--
--<item>
--<title>[COLOR green]National Geographic Europe[/COLOR]</title>
--<link>rtmp://93.174.95.125:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
--<regex>
--<name>path</name>
--<page>http://www.streamlive.to/view/70629/National_Geographic-live-stream-channel</page>
--<expres>file: "(.*).flv</expres>
--</regex>
--<regex>
--<name>tok</name>
--<expres>token":"([^"]*)</expres>
--<page>$doregex[tokpg]</page>
--<referer>https://www.streamlive.to</referer>
--</regex>
--<regex>
--<name>tokpg</name>
--<expres>getJSON\("([^"]*)</expres>
--<page>http://www.streamlive.to/view/70629/National_Geographic-live-stream-channel</page>
--</regex>
--<regex>
--<name>xs</name>
--<expres>/(\?xs=.*?)"</expres>
--<page>http://www.streamlive.to/view/70629/National_Geographic-live-stream-channel</page>
--<rawpost>captcha=$doregex[answer]</rawpost>
--<referer>https://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--<ignorecache/>
--</regex>
--<regex>
--<name>answer</name>
--<expres>$pyFunction:($doregex[captcha])</expres>
--<page></page>
--</regex>
--<regex>
--<name>captcha</name>
--<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
--<page></page>
--</regex>
--<regex>
--<name>xcaptcha</name>
--<expres>Question: (.*) =</expres>
--<page>http://www.streamlive.to/view/70629/National_Geographic-live-stream-channel</page>
--<referer>http://www.streamlive.to</referer>
--<cookieJar></cookieJar>
--</regex>
--<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
--</item>
--
-<item>
-<title>[COLOR green]Nat Geo Wild HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.168:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Animal Planet HD [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.129:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.png</thumbnail>
+<title>[COLOR green]Nat Geo Wild [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<link>http://185.5.40.101/hls/session-37473uCyyxurSfw/CH_NATGEOWILD/variant.m3u8?version=2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -285,26 +80,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR green]VIA SAT History [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.197:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_history_africa.png</thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>[COLOR green]VIA SAT Nature [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.154:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature_east.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR green]VIA SAT Explore [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
-<link>http://78.30.254.43:8989/udp/239.0.0.155:4000?</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_explore.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
