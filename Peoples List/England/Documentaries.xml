@@ -31,7 +31,7 @@
 
 
 <item>
-<title>[COLOR green]Discovery Channel [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]Discovery Channel [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://3.hls.bolshoe.tv/1/streaming/discovery/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_east.png</thumbnail>
 <fanart></fanart>
@@ -39,14 +39,14 @@
 
 
 <item>
-<title>[COLOR green]Discovery World [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]Discovery World [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://3.hls.bolshoe.tv/2/streaming/discovery_world/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Discovery Science [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]Discovery Science [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://3.hls.bolshoe.tv/2/streaming/discovery_science/tvrec/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
 <fanart></fanart>
@@ -74,7 +74,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Animal Planet [/COLOR]</title>
+<title>[COLOR red]Animal Planet [/COLOR]</title>
 <link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 <fanart></fanart>
