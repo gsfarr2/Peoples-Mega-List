@@ -256,14 +256,14 @@
 </item>
 
 <item>
-<title>[COLOR green]Fox [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]Fox [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://78.30.254.43:8989/udp/239.0.0.141:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_global.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR green]Fox Life [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]Fox Life [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://78.30.254.43:8989/udp/239.0.0.144:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_global.png</thumbnail>
 <fanart></fanart>
@@ -286,7 +286,7 @@
 </item>
 
 <item>
-<title>[COLOR green]TLC [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]TLC [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.png</thumbnail>
 <fanart></fanart>
@@ -294,7 +294,7 @@
 </item>
 
 <item>
-<title>[COLOR green]CBS Reality [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
+<title>[COLOR red]CBS Reality [/COLOR][COLOR yellow](change audio setting to eng when playing click ok go to audio symbol change to eng audio stream set as default for all videos ok)[/COLOR]</title>
 <link>http://78.30.254.43:8989/udp/239.0.0.91:4000?</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_reality_eu.png</thumbnail>
 <fanart></fanart>
