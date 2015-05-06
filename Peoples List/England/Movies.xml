@@ -20,7 +20,7 @@
 
 
 <item>
-<title>[COLOR green]Sky Movies Premiere [/COLOR]</title>
+<title>[COLOR red]Sky Movies Premiere [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4251<link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_plus1.png</thumbnail>
 <fanart></fanart>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Premiere+ [/COLOR]</title>
+<title>[COLOR  red]Sky Movies Premiere+ [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4252</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_plus1.png</thumbnail>
 <fanart></fanart>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Select [/COLOR]</title>
+<title>[COLOR red]Sky Movies Select [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4254</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.png</thumbnail>
 <fanart></fanart>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Action & Adventure [/COLOR]</title>
+<title>[COLOR red]Sky Movies Action & Adventure [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4245</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_action_adventure.png</thumbnail>
 <fanart></fanart>
@@ -52,7 +52,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Comedy [/COLOR]</title>
+<title>[COLOR red]Sky Movies Comedy [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4246</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_comedy.png</thumbnail>
 <fanart></fanart>
@@ -60,7 +60,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Disney [/COLOR]</title>
+<title>[COLOR red]Sky Movies Disney [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4247</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_disney.png</thumbnail>
 <fanart></fanart>
@@ -68,7 +68,7 @@
 </item>
 
  <item>
-<title>[COLOR green]Sky Movies Family [/COLOR]</title>
+<title>[COLOR red]Sky Movies Family [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4248</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_family.png</thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Sky Movies Sci Fi & Horror [/COLOR]</title>
+<title>[COLOR red]Sky Movies Sci Fi & Horror [/COLOR]</title>
 <link>http://185.56.30.123:8082/TV4249</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_scifi_horror.png</thumbnail>
 <fanart></fanart>
@@ -84,14 +84,14 @@
 </item>
 
 <item>
-<title>[COLOR green]Film Four[/COLOR]</title>
+<title>[COLOR red]Film Four[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/film4.png</thumbnail>
 <fanart> </fanart>
 </item>
 
 <item>
-<title>[COLOR green]True Movies 1[/COLOR]</title>
+<title>[COLOR red]True Movies 1[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_movies1.png</thumbnail>
 <fanart></fanart>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>[COLOR green]True Movies 2[/COLOR]</title>
+<title>[COLOR red]True Movies 2[/COLOR]</title>
 <link>http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_movies2.png</thumbnail>
 <fanart></fanart>
